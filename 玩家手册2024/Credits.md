@@ -24,7 +24,7 @@ Includes revised content from Xanathar's Guide to Everything (2017) and Tasha's 
 Mearls, Robert J. Schwalb, Rodney Thompson, James Wyatt
 **Building on the original game created by** Gary Gygax and Dave Arneson and then developed by many others over the past 50 years
 
-**翻译&校对：**威世智慧汉化组**
-成员名单：**Amethyst Dragonlord（可以这很方），Balduo，Dongfeng&Death，kong，PAX-12（PAX-(13-1)），Writena，冰原上的咸喵，柴猫（猫柴），刺猬永念（萧永念），独咕剑，鬼斯通，落雨，南村辉，怕辣精灵，契（契），闪星，水，小光头，雪，中立神马，子虚子
+**翻译&校对：**威世智慧汉化组
+**成员名单：**Amethyst Dragonlord（可以这很方），Balduo，Dongfeng&Death，kong，PAX-12（PAX-(13-1)），Writena，冰原上的咸喵，柴猫（猫柴），刺猬永念（萧永念），独咕剑，鬼斯通，落雨，南村辉，怕辣精灵，契（契），闪星，水，小光头，雪，中立神马，子虚子
 **排版：** 刺猬永念
 **特别鸣谢：**Lobo-duo船长&小心，Cookie
