@@ -1,0 +1,45 @@
+## **<span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体">星舰水蛭Jammer Leech</span><span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体"></span>**
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">星舰水蛭是一种类似藤壶的生物，其初始形态是一种附着在魔法船船体上的太空孢子，内有幼虫状态的水蛭。附着在船上数天之后的孢子会刺破船体，并开始形成与船体颜色大致相同的硬壳。这种硬壳由水蛭分泌而出的胶状物质固定在船上，它会一直生长到约1英尺的直径大小。紫红色的水蛭居住在壳内，其形状类似一只蜗牛。它的一端长有一只水汪汪的眼睛，眼睛的下方伸出来一条用以自卫的尖刺触手。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">一对交配的水蛭每月会产下 1d6 个孢子。这些孢子中的一部分可能会与它们的父母攀上同一个船体，而另一部分孢子则会飘离，等待着将自己附着在另一艘缺乏警惕的舰船上。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">星舰水蛭会对它所附着的船体造成破坏，并从舰船的法驱魔舵中吸收魔法。它可以时不时地释放这种魔法来当作防御措施。如果船上的船员发现了附着的水蛭，它们通常会尝试将水蛭从船体上刮下来，而不是用武器攻击它们。消灭附着在船上的水蛭是极其危险的，因为船上的法驱者可以感觉到它死亡的创伤，后者会因震慑而变得虚弱且陷入失能。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+**<span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体">星舰水蛭JAMMER LEECH</span>**
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">微型植物，无阵营</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">AC 12(天生护甲) </span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">HP 27(5d4+15) </span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">速度 10尺</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">力量11(+0) 敏捷1(-5) 体质16(+3)</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">智力1(-5) 感知10(+0) 魅力1(-5)</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">状态免疫：魅惑、恐慌、倒地</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">感官：黑暗视觉30尺、被动察觉10</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">语言：-</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">挑战等级：1(200XP) 熟练加值+2</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">法驱者超载Spelljammer Overload。当水蛭附着在一艘带有法驱魔舵的船上且它的生命值减少至 0时，则与该魔舵同调的生物必须进行一次 DC 13 的体质豁免。如果豁免失败，该生物会受到10 (4d4)点心灵伤害并陷入失能持续1分钟。豁免成功则该生物受到伤害减半并且陷入失能直到其下个回合结束。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">非寻常天性Unusual Nature。水蛭不需要呼吸或睡眠。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">尖刺触手Spiked Tentacle。近战武器攻击：命中+2，触及5尺，单一目标。命中：2（1d4）点穿刺伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">附赠动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">附着船体Attach to Hull。水蛭将自身附着在其所处空间内的船体上，并对舰船造成 2 (1d4) 点穿刺伤害（忽略船的伤害阈值）。在将水蛭从船体上刮下之前，这一伤害无法被修复。水蛭附着期间，它的速度变为0，但它可以使用一个**附赠动作**离开船体。在水蛭触及范围之内生物可以用一个**动作**尝试将其从船体上刮下来，此时，进行一次DC为18的力量检定。若检定失败，该**动作**会被浪费，而水蛭依旧附在船体上。以此方式移除水蛭不会对水蛭或船只造成任何伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">反应</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">魔法冲击Magical Discharge (1/日)。当水蛭受到伤害时，它可以从眼睛中释放出一道由魔法能量凝成的箭矢，并选择一个距离水蛭自身 30 英尺内的其可以看到的生物作为目标。目标必须成功通过一次 DC 13 的敏捷豁免，否则会受到 10 (3d6) 点力场伤害并陷入震慑直到其下一回合结束。</span>

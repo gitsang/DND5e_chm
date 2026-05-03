@@ -1,0 +1,53 @@
+**<span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体">佐达尔人Zodar</span>**
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　佐达尔人，一种二足的实体，其整个身体都被包裹在一层黑曜石外骨骼中。除了两道好似眼睛一般的垂直而狭长的缝隙以外，它的面部没有任何特征，它的脸上更是看不出任何的情绪或痛苦。而在它的盔甲外骨骼下，就是佐达尔人那由极度紧密的肌肉纤维所组成的身体，这让它超乎想象地强壮和沉重。一位佐达尔人重达1500磅。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　没有人知道有多少佐达尔人存在，也没有人知道它们来自哪里，但最流行的假设是，它们是某些早已被遗忘的神的造物。佐达尔人与其他智慧生物交互的方式比单纯的冷漠更冷。它们只是保持沉默。而当某个佐达尔人最终开始有所</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">的时候，这行动背后的动机也并不总是确切明晰。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　对这种行为的一种解释是，每个佐达尔人都身负一项特定的使命，它们会不懈地追求目标，但它对不涉及其任务的情况会有奇怪的</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">反应</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">，因为它不知道自己还能做什么。另一种理论则是，佐达尔人们其实有在协同工作以实现某些主要目标。第三种不那么不祥的想法是，佐达尔人在失去了它们的造物主之后，也失去了自己的目标，于是它们正努力寻找自己该扮演的新角色。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　佐达尔人一生中有三次机会可以通过周围的空气发出声音。当它自认为有必要说话时，它会明智地斟酌语句。它还能通过扭曲多元宇宙的结构来施展祈愿术法术作为自己的临终遗响当法术被施展，它也将随之被摧毁。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+#### **<span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体">佐达尔人Zodar</span><span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体"></span>**
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">中型异怪，普遍绝对中立</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">AC：20（天生护甲）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">HP：200（16d8+128）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">速度：30尺，飞行30尺（悬浮）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">力量30（+10） 敏捷10（+0） 体质26（+8）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">智力12（+1） 感知15（+2） 魅力18（+4）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">豁免：体质+13，智力+6，感知+7，魅力+9</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">伤害免疫：强酸，火焰，毒素</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">状态免疫：目盲，魅惑，耳聋，力竭，恐慌，石化，中毒</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">感官：盲视120尺（在此范围外目盲），被动察觉12</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">语言：见下“空无之音”</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">挑战等级：16（15，000 XP）熟练加值：+5</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">空无之音Disembodied Voice。佐达尔人一生有三次机会，可以通过周围的空气发出最多25个单词以内的信息。它只有在面对非常重要的事情时才会说话，而且任何智力为2或更高的生物都可以理解它想传递的信息。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">传奇抗性Legendary Resistance（3/日）。佐达尔人豁免失败时，可以将其改为豁免成功。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">传送阻抑Transport Inhibitor。佐达尔人不能被非自愿的传送或送往其他存在位面。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">非凡本质Unusual Nature。佐达尔人不需要空气、食物，水和睡眠。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">多重攻击Multiattack。佐达尔人进行两次粉碎重拳攻击。在发动这些攻击之前或之后，佐达尔人还可以使用强迫传送。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">粉碎重拳Crushing Fist。近战武器攻击：命中+15，触及5尺，单一目标。命中：21（2d10+10）点力场伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">强迫传送Forced Teleport。佐达尔人魔法地扭曲距离其60尺内一个可视生物周围的空间。目标必须进行一次DC21的体质豁免，豁免失败则受到22（4d10）点力场伤害，同时佐达尔人将它连同它着装和携带的所有物品一同传送到最远60尺外的一处未占据空间，佐达尔人需要能够看见该空间，且该空间能够支撑目标。豁免成功则只受到一半伤害，且不会被传送。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">祈愿术Wish。佐达尔人施展祈愿术，不需要任何法术成分，施法属性为魅力（法术豁免DC17）。施展法术之后，佐达尔人将化作飞灰并被摧毁。</span>

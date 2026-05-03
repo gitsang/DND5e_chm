@@ -1,14 +1,14 @@
 @echo off
 if "%1" NEQ "" goto open_loop
-set /p file=ÄãÒªÔËÐÐµÄpythonÎÄ¼þÃû£¨ÎÞºó×º£©£º
-echo ¿ªÊ¼ÔËÐÐ
+set /p file=ä½ è¦è¿è¡Œçš„pythonæ–‡ä»¶åï¼ˆæ— åŽç¼€ï¼‰ï¼š
+echo å¼€å§‹è¿è¡Œ
 :loop
 python %file%.py
-echo µã°´ÈÎÒâ¼üÒÔÖØ¸´ÔËÐÐ£º%file%
+echo ç‚¹æŒ‰ä»»æ„é”®ä»¥é‡å¤è¿è¡Œï¼š%file%
 pause
 goto loop
 :open_loop
 python %1
-echo µã°´ÈÎÒâ¼üÒÔÖØ¸´ÔËÐÐ£º%~n1
+echo ç‚¹æŒ‰ä»»æ„é”®ä»¥é‡å¤è¿è¡Œï¼š%~n1
 pause
 goto open_loop

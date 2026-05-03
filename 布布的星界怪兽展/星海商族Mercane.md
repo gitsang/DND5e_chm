@@ -1,0 +1,47 @@
+**<span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体">星海商族</span><span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体">Mercane</span>**
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">秘法商族是由一位或多位神职涉及公平贸易的神祇所创造的神秘魔法造物。这些瘦长的蓝色生灵身高12尺，身着优雅的长跑，脸型修长，还有着又长又细的手指。</span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">星海商族的大多数生意集中在荒宇和星界海中。对于星海商族的个体而言，它的贸易可以有很多种形式：从货物与服务的交易，到意见与情报的交易。不过，这群家伙最为著名的生意还是魔法物品，它们收购与出售各种魔法物品，其中甚至包括神器与法驱魔舵。复数星海商族在同一时间现身的情况极为罕见，通常个体只会与其下属或保镖一同行动。</span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">星海商族公平而又诚信，它们会与任何人做生意，前提是对方过去没有伤害过或欺骗过另一位星海商族。星海商族们有着一种特殊形式的心灵感应能力，它们依此与彼此进行跨多元宇宙间的交流。星海商族的个体常常会用这个能力去警告其他个体危险或不可靠的对象。若某人冒犯过星海商族的个体，想再要再赢回它们的好感是几近不可能的。</span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+#### **<span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体">星海商族Mercane</span><span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体"></span>**
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">大型天族，普遍守序中立</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">AC：13（法师护甲）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">HP：75（10d10+20）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">速度：30尺</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">力量16（+3） 敏捷10（+0） 体质15（+2）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">智力18（+4） 感知16（+3） 魅力15（+2）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">豁免：智力+7，感知+6，魅力+5</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">技能：洞悉+9，察觉+6，游说+5</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">感官：被动察觉16</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">语言：通用语，巨人语，心灵感应60尺（另见“星海商族心灵感应”）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">挑战等级：5（1，800 XP）熟练加值：+3</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">星海商族心灵感应Mercane Telepathy。星海商族可以用心灵感应的方式与所有它知晓的星海商族进行交流，无论它们之间的距离有多远。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">多重攻击Multiattack。星海商族进行三次灵能注刃攻击。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">灵能注刃Psi-Imbued Blade。近战武器攻击：命中+6，触及5 尺，单一目标。命中：10（2d6+3）点挥砍伤害，如果目标是生物，则该生物必须成功通过一次DC15的感知豁免，否则陷入对星海商族的恐慌，直到目标的下个回合结束。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">施法（灵能）Spellcasting(Psionics)。星海商族可以施展下列的一道法术，而不需要任何法术成分，其施法属性为智力（法术豁免DC15）：</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">随意：侦测魔法，光亮术</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">每项1/日：任意门，隐形术，法师护甲（仅自身）</span>

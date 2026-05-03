@@ -1,0 +1,139 @@
+## **<span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体">纽吉怪Neogi</span><span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体"></span>**
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">纽吉怪看上去像是特大号的蜘蛛，长着鳗鱼一样的脖子和脑袋。这种生物能够毒害目标的身体和心灵，进而制服比它们更强壮的生物。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">纽吉怪通常生活在物质位面的偏远角落，在星界和以太位面也是如此。它们在很久以前就抛弃了自己原来的家乡世界去征服和吞并其他世界的生物。在此期间，纽吉怪首先奴役了掘土巨怪。然后，使用它们作为苦力，纽吉怪建造了蜘蛛般的圆滑船只，令它们能够在多元宇宙中遨游。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+### **<span style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体">纽吉怪幼体集群Neogi Hatchling Swarm</span><span style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体"></span>**
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">纽吉怪能活大约一个世纪。当一个个体因年龄增长而日益虚弱时，群体中的其他纽吉怪会制服它并给它注入一种特殊的毒素，把年老的纽吉怪转变成一团臃肿无助的肉块。年轻的纽吉怪在它上面产卵，当幼体孵化时，它们会吃掉年迈的纽吉怪，然后是其他新生儿，直到只剩下几个最强壮的新生儿。有时候，新生的纽吉怪们会为一个邪恶的目标而联合起来，形成一个跳跃前行的集群。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+#### **<span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体">纽吉怪幼体集群Neogi Hatchling Swarm</span><span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体"></span>**
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">微型异怪的中型集群，普遍守序邪恶</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">护甲等级 11</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">生命值 52 (8d8+16)</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">速度 20 尺， 攀爬 20 尺</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">力量12 (+1) 敏捷13（+1) 体质14（+2)</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">智力6（-2） 感知10（+0） 魅力9（-1）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">伤害抗性 钝击，穿刺，挥砍</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">状态免疫 魅惑，恐慌，受擒，麻痹，石化，倒地，束缚，震慑</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">感官 黑暗视觉 60 尺， 被动察觉 10</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">语言 -</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">挑战等级 3 (700 XP) 熟练加值+2</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">蛛行Spider Climb。纽吉怪可以攀爬在难以攀爬的表面上，包括倒吊在天花板上，且不需要进行属性检定。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">集群Swarm。集群可以进驻另一生物身处的空间位置，反之亦然。而且集群可以通过任何足够一只微型纽吉怪幼体通过的通道。集群不能恢复生命值也不能获得临时生命值。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">集群噬咬Swarm of Bite。 近战武器攻击: 命中+3，触及 5 尺 ，单一目标。命中：22（6d6+1）点毒素伤害，或者集群生命值等于或低于一半时11（3d6+1）点穿刺伤害并且目标必须成功通过一次DC12的体质豁免，否则陷入1分钟中毒状态。目标可以在每个其回合结束重复此豁免，成功则该生物身上的效应提前结束。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+### **<span style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体">纽吉怪海盗Neogi Pirate</span><span style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体"></span>**
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">纽吉怪海盗是在夜蛛（见《星界冒险者指南》）或其他纽吉怪控制的船只上作为船员的成年纽吉怪。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">纽吉怪们的社会没有个体之间的区别，只有是否能奴役它人的能力差异，而且它们也无法理解人类和其他类似存在所体会到的情感。对于一个纽吉怪来说，仇恨是和爱一样陌生的感受，而在缺少权威的情况下表现出忠诚是愚蠢的行为。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">纽吉怪海盗（和一般的成年纽吉怪）通过染料、变化法术和其他旨在彰显个体的领导地位、成就和身份的记号来标记他们自身和被捕获的奴隶。通过这些记号，纽吉怪们能够确定彼此在阶级中的位置，它们必须服从更高位的纽吉怪，否则将面临严厉的惩罚。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+#### **<span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体">纽吉怪海盗Neogi Pirate</span><span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体"></span>**
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">小型异怪，普遍守序邪恶</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">护甲等级 16（胸甲）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">生命值 33 (6d6+12)</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">速度 30尺， 攀爬30 尺</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">力量6 (-2) 敏捷15（+2) 体质14（+2)</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">智力13（+1） 感知12（+1） 魅力15（+2）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">技能 察觉+3，隐匿+4</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">感官 黑暗视觉 60 尺， 被动察觉 13</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">语言 通用语，深潜语，地底通用语</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">挑战等级 3 (700 XP) 熟练加值+2</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">精神坚韧Mental Fortitude。纽吉怪在进行对抗魅惑与恐慌的豁免检定时具有优势，并且魔法无法让纽吉怪陷入睡眠。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">蛛行Spider Climb。纽吉怪可以攀爬在难以攀爬的表面上，包括倒吊在天花板上，且不需要进行属性检定。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">多重攻击Multiattack。纽吉怪进行一次啃咬和两次爪击。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">啃咬Bite。 近战武器攻击: 命中+4，触及5尺 ，单一目标。命中：6(1d6+3)点穿刺伤害加14(4d6) 点毒素伤害，并且目标必须成功通过一次DC12的体质豁免，否则陷入1分钟中毒状态。目标可以在每个其回合结束重复此豁免，成功则该生物身上的效应提前结束。</span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">爪击Claws。近战武器攻击: 命中+4，触及5尺 ，单一目标。命中: 6(1d6+3)点挥砍伤害</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">【\*译注：纽吉怪海盗的敏捷为15，但伤害上的调整值+3，应该是错误。不过话说回来这家伙比成体纽吉怪弱啊。。】</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+### **<span style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体">纽吉怪虚空猎手Neogi Void Hunter</span><span style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体"></span>**
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">纽吉怪虚空猎手比一般的纽吉怪成体要大，通常会在夜蛛（见《星界冒险者指南》）上担任船长的角色。虚空猎手向一个或多个星际实体效忠，以换得体验它们所拥有的巨大力量的资格。这些被称为 "埃克马Acamar"、"凯丰Caiphon"、"吉拜斯Gibbeth"和 "哈达Hadar"的实体，看上去像是星辰，由邪恶的精华所构成。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+#### **<span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体">纽吉怪虚空猎手Neogi Void Hunter</span><span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体"></span>**
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">中型异怪（魔契师），普遍守序邪恶</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">护甲等级 14（天生护甲）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">生命值 58(9d8+18)</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">速度 30 尺， 攀爬 30 尺</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">力量6 (-2) 敏捷16（+3) 体质14（+2)</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">智力16（+3） 感知12（+1） 魅力18（+4）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">豁免 感知+3，魅力+6</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">技能 奥秘+5，欺瞒+6，威吓+6，察觉+3，游说+6</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">感官 黑暗视觉 120 尺， 被动察觉 13</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">语言 通用语，深潜语，地底通用语，30尺心灵感应</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">挑战等级 4 (1100 XP) 熟练加值+2</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">魔鬼视界Devil's Sight。魔法黑暗不会阻挡纽吉怪的黑暗视觉。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">精神坚韧Mental Fortitude。纽吉怪在进行对抗魅惑与恐慌的豁免检定时具有优势，并且魔法无法让纽吉怪陷入睡眠。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">蛛行Spider Climb。纽吉怪可以攀爬在难以攀爬的表面上，包括倒吊在天花板上，且不需要进行属性检定。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">多重攻击Multiattack。纽吉怪进行一次啃咬与两次爪击，或者，它进行两次魔能矢攻击。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">啃咬Bite。近战武器攻击: 命中+5 ，触及5尺 ，单一目标。命中:7(1d8+3)点穿刺伤害加14(4d6)点毒素伤害，并且目标必须成功通过一次DC12的体质豁免，否则陷入1分钟中毒状态。目标可以在每个其回合结束重复此豁免，成功则该生物身上的效应提前结束。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">爪击Claws。近战武器攻击: 命中+5 ，触及5尺 ，单一目标。命中: 7(1d8+3)点穿刺伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">魔能矢Eldritch Bolt。远程法术攻击: 命中+6 ，射程120尺 ，单一目标。命中: 20(3d10+4)点力场伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">施法Spellcasting。纽吉怪施展以下法术，以魅力作为其施法属性：</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">每项1/日：任意门， 隐形术</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">附赠动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">奴役Enslave（长休或短休后充能）。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+
+纽吉怪指定一个自身30尺内它能看见的生物。该生物必须成功通过DC14的感知豁免，否则被纽吉怪魔法性地魅惑一日，在纽吉怪死亡或与该生物距离超过1英里后魅惑也会提前结束。被魅惑对象不能违抗纽吉怪的命令，也不能执行任何**反应**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">，纽吉怪和奴役对象最远能够在一英里内用心灵感应交流。一旦被魅惑对象受到伤害，其就可以再次进行豁免检定，成功则该效应提前结束。</span>

@@ -1,0 +1,67 @@
+<div class="inner">
+
+**吟游诗人 Bard**  
+
+</div>
+
+<div class="inner">
+
+吟游诗人职业在本节中获得了新的职业特性与子职业选项。
+
+</div>
+
+<div class="inner">
+
+  
+**可选职业特性 Optional Class Features**  
+你可以在达到特定等级时获得玩家手册中描述的职业特性。这一部分提供了一些你作为吟游诗人的额外特性。与玩家手册中的特性不同的是，你不会自动获得这些特性。在你达到该部分描述的职业特性的需求等级且决定获得这些特性时，与你的<span lang="EN-US">DM</span>先商量商量。这些特性能够被一个一个单独选走，这意味着你可以使用其中一些、全部或不使用它们。  
+  
+  
+**额外吟游诗人法术 Additional Bard Spells**  
+*第1级吟游诗人特性*  
+下表中的法术扩充了《玩家手册》中的吟游诗人法术列表，排序基于法术环阶而非角色等级。表中在可仪式施法的法术后方追记了仪式标签。若无\*号标记，表中法术均来自《玩家手册》（有\*标记的法术来自本书第三章）。《姗娜萨的万事指南》也提供了更多法术。
+
+</div>
+
+<div class="inner">
+
+  
+
+</div>
+
+<div class="inner">
+
+|  |  |  |  |  |
+|----|----|----|----|----|
+| **1环** | **2环** | **3环** | **4环** | **5环** |
+| 七彩喷射 Color Spray | 援助术 Aid | 智能堡垒 Intellect Fortress\* | 魅影杀手 Phantasmal Killer | 拉瑞心灵联结 Rary's Telepathic Bond (仪式) |
+| 命令术 Command | 变巨术/缩小术 Enlarge/Reduce | 群体治愈真言 Mass Healing Word |  |  |
+|  | 镜影术 Mirror Image | 缓慢术 Slow |  |  |
+
+</div>
+
+<div class="inner">
+
+</div>
+
+<div class="inner">
+
+|  |  |  |  |  |
+|----|----|----|----|----|
+| **6环** | **7环** | **8环** | **9环** |  |
+| 英雄宴 Heroes' Feast | 蓝纱一梦 Dream of Blue Veil\* | 嫌恶术/关怀术 Antipathy/Sympathy | 虹光法墙 Prismatic Wall |  |
+|  | 虹光喷射 Prismatic Spray |  |  |  |
+
+  
+  
+**魔法激励 Magical Inspiration**  
+*第2级吟游诗人特性*  
+如果一个生物拥有来自你的诗人激励骰子，在他释放一个恢复生命值或者造成伤害的法术时，他可以掷出激励骰子并选择法术的其中一个被法术影响的目标，在对该目标的恢复或者伤害数值上加上诗人激励骰的掷骰结果。这个诗人激励骰子随即被消耗。  
+  
+**替换诗歌 Bardic Versitility**  
+*第4级吟游诗人特性*  
+当你的吟游诗人职业等级抵达能让你获得属性值提升职业特性时，你能进行以下一项改变。这种变化代表着你改变了使用法术和技能的重点。  
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-spacerun: 'yes'"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-spacerun: 'yes'"> </span>·</span>替换一个你已经选择专精的技能，你可以选择专精于另一个你已经有熟练但还没有专精的技能。之后，你原先专精于的技能变回熟练而非专精。  
+<span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-spacerun: 'yes'"><span style="FONT-SIZE: 12pt; FONT-FAMILY: 宋体; mso-spacerun: 'yes'"> </span>·</span>从诗人戏法列表中选择一个你未习得的戏法，替换一个你已经习得的戏法。
+
+</div>
