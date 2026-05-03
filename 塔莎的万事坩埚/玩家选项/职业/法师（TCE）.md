@@ -1,11 +1,11 @@
-<span class="bbc_size" style="FONT-SIZE: 18pt">**法师 Wizard** </span>  
-法师职业在本节中获得了新的职业特性与子职业选项。  
-  
-<span class="bbc_size" style="FONT-SIZE: 16pt"><span class="bbc_color" style="COLOR: brown">**可选职业特性 Optional Class Features** </span></span>  
-当你在某一职业达到特定等级，你将从《玩家手册》中取得相应的职业特性。本节提供了可供法师获得的额外职业特性。与《玩家手册》中的职业特性不同，这些特性并非自动取得；若你满足相应的等级要求，你应当询问DM以决定是否获得本节所提供的特性。这些特性是彼此独立的、并不需要被一并选择：你可以使用其中的一部分、全部、或是完全不用。  
-  
-**<span class="bbc_color" style="COLOR: brown">额外法师法术 Additional Wizard Spells </span>**  
-*第1级法师特性*  
+**法师 Wizard**
+法师职业在本节中获得了新的职业特性与子职业选项。
+
+**可选职业特性 Optional Class Features**
+当你在某一职业达到特定等级，你将从《玩家手册》中取得相应的职业特性。本节提供了可供法师获得的额外职业特性。与《玩家手册》中的职业特性不同，这些特性并非自动取得；若你满足相应的等级要求，你应当询问DM以决定是否获得本节所提供的特性。这些特性是彼此独立的、并不需要被一并选择：你可以使用其中的一部分、全部、或是完全不用。
+
+**额外法师法术 Additional Wizard Spells **
+*第1级法师特性*
 下表中的法术扩充了《玩家手册》中的法师法术列表，排序基于法术环阶而非角色等级。表中标出了法术所属的学派，并在在可仪式施法的法术后方追记了仪式标签。若无\*号标记，表中法术均来自《玩家手册》（有\*标记的法术来自本书第三章）。《姗娜萨的万事指南》也提供了更多法术。
 
 |  |  |  |  |  |
@@ -24,8 +24,7 @@
 | 邪魔召唤术 Summon fiend\* (咒法) | 蓝纱一梦 Dream of the blue veil\* (咒法) | 灾厄之刃 Blade of disaster\* (咒法) |  |  |
 | 塔莎超凡形态 Tasha’s otherworldly guise\* (变化) |  |  |  |  |
 
-  
-  
-<span class="bbc_color" style="COLOR: brown"><span class="bbc_size" style="FONT-SIZE: 14pt">**戏法公式 Cantrip Formulas** </span></span>  
-*第3级法师特性*  
+
+**戏法公式 Cantrip Formulas**
+*第3级法师特性*
 你在法术书中写下了一套奥法公式，并能借此在心中推演出一个戏法。每当你完成一次长休，你可以查阅法术书中所记的公式，以将你的一个已知法师戏法替换为另一个来自法师法术列表的戏法。

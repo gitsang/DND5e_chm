@@ -1,49 +1,49 @@
-## **<span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体">太空小丑Space Clown</span><span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体"></span>**
+## **太空小丑Space Clown**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　太空小丑是一处名叫“小丑天宇”的荒宇系内的居民。这些人类曾经住在这个荒宇系中的三个环形世界中，并将信仰奉献给一位狂欢之神。它们的崇拜仪式以庆典和滑稽为主。随着时间的推移，人们的幸福已经紧紧系于对一种名为“激颤狂喜（Thrill Joy）”的灵药之上，对它的消费需求也是日益增长。直到人们对其上瘾以后才发现，这种灵药是它们信仰的牧师以从恶魔脓液与傻瓜花（Bozo Flower）的花蜜中提取出来的成分制作的。最终狂喜乱舞将这些忠实的信徒们变成了如同邪魔一般的生物，而它们小丑一样的外表正是所谓的“祝福”。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　太空小丑是一处名叫“小丑天宇”的荒宇系内的居民。这些人类曾经住在这个荒宇系中的三个环形世界中，并将信仰奉献给一位狂欢之神。它们的崇拜仪式以庆典和滑稽为主。随着时间的推移，人们的幸福已经紧紧系于对一种名为“激颤狂喜（Thrill Joy）”的灵药之上，对它的消费需求也是日益增长。直到人们对其上瘾以后才发现，这种灵药是它们信仰的牧师以从恶魔脓液与傻瓜花（Bozo Flower）的花蜜中提取出来的成分制作的。最终狂喜乱舞将这些忠实的信徒们变成了如同邪魔一般的生物，而它们小丑一样的外表正是所谓的“祝福”。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　太空小丑从多瓦尔企鹅人商人（见前文的“多瓦尔企鹅人”）那里获取了它们的第一个法驱魔舵。随后又探访了其他的荒宇系，与许多族裔都有过接触。通过这些遭遇，对小丑的爱与恐惧被散播到了多元宇宙的各个角落，正如太空小丑们自己正在做的那样。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　太空小丑从多瓦尔企鹅人商人（见前文的“多瓦尔企鹅人”）那里获取了它们的第一个法驱魔舵。随后又探访了其他的荒宇系，与许多族裔都有过接触。通过这些遭遇，对小丑的爱与恐惧被散播到了多元宇宙的各个角落，正如太空小丑们自己正在做的那样。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　太空小丑们四处劫掠，以类人生物的血肉为食。它们搭乘着装饰华丽的舰船航行于太空之中，时而会停留在有生物居住的星球上，它们会在那里搭起狂欢的帐篷，吸引那些好奇的观客走进它们的魔爪。它们装备着只有它们能够使用、色彩各异的射线枪；这些玩具在别人手里是完全无害的。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　太空小丑们四处劫掠，以类人生物的血肉为食。它们搭乘着装饰华丽的舰船航行于太空之中，时而会停留在有生物居住的星球上，它们会在那里搭起狂欢的帐篷，吸引那些好奇的观客走进它们的魔爪。它们装备着只有它们能够使用、色彩各异的射线枪；这些玩具在别人手里是完全无害的。
 
-**<span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体">太空小丑Space Clown</span>**
+**太空小丑Space Clown**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">中型邪魔，普遍混乱邪恶</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+中型邪魔，普遍混乱邪恶
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">AC：13</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+AC：13
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">HP：58（9d8+18）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+HP：58（9d8+18）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">速度：30尺</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+速度：30尺
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">力量16（+3） 敏捷16（+3） 体质14（+2）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+力量16（+3） 敏捷16（+3） 体质14（+2）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">智力11（+0） 感知11（+0） 魅力16（+3）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+智力11（+0） 感知11（+0） 魅力16（+3）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">技能：特技+5，表演+5，巧手+5</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+技能：特技+5，表演+5，巧手+5
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">感官：黑暗视觉60尺，被动察觉10</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+感官：黑暗视觉60尺，被动察觉10
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">语言：深渊语，通用语</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+语言：深渊语，通用语
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">挑战等级：2（450 XP）熟练加值：+2</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+挑战等级：2（450 XP）熟练加值：+2
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">最后一爆Dying Burst。当太空小丑的生命值被降至0点时，它就会如同气球一般爆炸，释放出一团烂臭的腐蚀性脓液。小丑周围5尺内的每个生物都必须进行一次DC12的敏捷豁免，豁免失败者将受到10（3d6）点强酸伤害，豁免成功则伤害减半。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+最后一爆Dying Burst。当太空小丑的生命值被降至0点时，它就会如同气球一般爆炸，释放出一团烂臭的腐蚀性脓液。小丑周围5尺内的每个生物都必须进行一次DC12的敏捷豁免，豁免失败者将受到10（3d6）点强酸伤害，豁免成功则伤害减半。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">吱呀作响Squeakers。小丑穿着的鞋子会在走路时发出吱呀声。这种吱呀声能够在30尺范围内被清晰听到。当小丑的魅影形态生效时，这声音会被消除。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+吱呀作响Squeakers。小丑穿着的鞋子会在走路时发出吱呀声。这种吱呀声能够在30尺范围内被清晰听到。当小丑的魅影形态生效时，这声音会被消除。
 
-**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+**动作**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">电击Shock。近战法术攻击：命中+5，触及5尺，单一目标。命中：17（4d6+3）点闪电伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+电击Shock。近战法术攻击：命中+5，触及5尺，单一目标。命中：17（4d6+3）点闪电伤害。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">射线枪Ray Gun。远程法术攻击：命中+5，射程120尺，单一生物。命中：7（2d6）点心灵伤害，如果目标是智力为3或更高的类人生物，则必须进行一次DC12的感知豁免。豁免失败者将会觉得自己所见和所听的一切事物都变得滑稽可笑，并失能1分钟。目标可以在每个自己的回合结束时再次豁免，成功则结束该效应。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+射线枪Ray Gun。远程法术攻击：命中+5，射程120尺，单一生物。命中：7（2d6）点心灵伤害，如果目标是智力为3或更高的类人生物，则必须进行一次DC12的感知豁免。豁免失败者将会觉得自己所见和所听的一切事物都变得滑稽可笑，并失能1分钟。目标可以在每个自己的回合结束时再次豁免，成功则结束该效应。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">施法Spellcasting。小丑可以施展下列的一道法术，而不需要任何材料成分，其施法属性为魅力：</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+施法Spellcasting。小丑可以施展下列的一道法术，而不需要任何材料成分，其施法属性为魅力：
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">随意：交友术，法师之手，魔法伎俩</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+随意：交友术，法师之手，魔法伎俩
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">每项1/日：镜影术，蛛行术</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+每项1/日：镜影术，蛛行术
 
-**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">附赠动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+**附赠动作**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">魅影形态Phantasmal Form（3/日）。小丑将自己与身上的所有东西蒙上一层幻象，使其看起来像是另外一个与之体型相等或更小的生物（比如一个孩子），或一个至大不超过小丑原处空间的物件（如一个飘浮的气球）。维持这个效果需要小丑保持专注（就如同在专注一道法术），而这种幻象效果无法瞒过物理检查。作为一个</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">，看到小丑幻象的生物可以进行一次DC15的感知（洞悉）检定，成功则看穿幻象并揭示出小丑的真实形态。</span>
+魅影形态Phantasmal Form（3/日）。小丑将自己与身上的所有东西蒙上一层幻象，使其看起来像是另外一个与之体型相等或更小的生物（比如一个孩子），或一个至大不超过小丑原处空间的物件（如一个飘浮的气球）。维持这个效果需要小丑保持专注（就如同在专注一道法术），而这种幻象效果无法瞒过物理检查。作为一个**动作**，看到小丑幻象的生物可以进行一次DC15的感知（洞悉）检定，成功则看穿幻象并揭示出小丑的真实形态。

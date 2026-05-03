@@ -1,49 +1,49 @@
-## **<span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体">纳-萨古</span><span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体">Neh-thalggu</span><span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体"></span>**
+## **纳-萨古Neh-thalggu**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">纳-萨古在多元宇宙中被广泛称呼为“脑髓收藏家”，它吞噬类人生物的大脑并将它们用作容器来增强自己的魔法能力。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+纳-萨古在多元宇宙中被广泛称呼为“脑髓收藏家”，它吞噬类人生物的大脑并将它们用作容器来增强自己的魔法能力。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">纳-萨古出生在噩梦般的遥远国度，但它们遍布星界，并寻找通往物质位面各个世界的道路，因为那里的大脑更多。纳-萨古有一个球根状的身体和六只类似于甲壳类动物的腿，四只凸出的眼睛和一张长满牙齿的嘴占据了它丑陋的面容。在这些特征的后背之上，一个或多个肿块从它的身体中突出，每个肿块都包含一个被纳-萨古吃掉的大脑。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+纳-萨古出生在噩梦般的遥远国度，但它们遍布星界，并寻找通往物质位面各个世界的道路，因为那里的大脑更多。纳-萨古有一个球根状的身体和六只类似于甲壳类动物的腿，四只凸出的眼睛和一张长满牙齿的嘴占据了它丑陋的面容。在这些特征的后背之上，一个或多个肿块从它的身体中突出，每个肿块都包含一个被纳-萨古吃掉的大脑。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">纳-萨古杀死受害者后，会用自己的螯钳切开受害者的头部并取出大脑，然后将之整个吞掉。收集到的大脑将存储在纳-萨古头部的囊袋之中。一旦它以这种方式收集了十二个大脑，它就会被一种返回遥远国度的冲动所支配，并开始将所有的精力投入到寻找回家的道路上。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+纳-萨古杀死受害者后，会用自己的螯钳切开受害者的头部并取出大脑，然后将之整个吞掉。收集到的大脑将存储在纳-萨古头部的囊袋之中。一旦它以这种方式收集了十二个大脑，它就会被一种返回遥远国度的冲动所支配，并开始将所有的精力投入到寻找回家的道路上。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">在遭遇一只纳-萨古时，掷d12来确定它已经收集了多少大脑。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+在遭遇一只纳-萨古时，掷d12来确定它已经收集了多少大脑。
 
-**<span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体">纳-萨古Neh-thalggu</span>**
+**纳-萨古Neh-thalggu**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">大型异怪，普遍混乱中立</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+大型异怪，普遍混乱中立
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">护甲等级14（天生护甲）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+护甲等级14（天生护甲）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">生命值95 ( 10d10 + 40 )</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+生命值95 ( 10d10 + 40 )
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">速度40 尺</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+速度40 尺
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">力量15（+2） 敏捷8（-1） 体质18（+4）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+力量15（+2） 敏捷8（-1） 体质18（+4）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">智力12（+1） 感知11（+0） 魅力7（-2）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+智力12（+1） 感知11（+0） 魅力7（-2）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">感官 黑暗视觉120英尺，被动察觉 10</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+感官 黑暗视觉120英尺，被动察觉 10
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">语言 深潜语；另见大脑转储</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+语言 深潜语；另见大脑转储
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">挑战等级 4 (1，100 XP)熟练加值+2</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+挑战等级 4 (1，100 XP)熟练加值+2
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">大脑转储Brain Dump。每当纳-萨古吞噬一个大脑时，它就会获得理解和说大脑生前主人所知语言的魔法能力。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+大脑转储Brain Dump。每当纳-萨古吞噬一个大脑时，它就会获得理解和说大脑生前主人所知语言的魔法能力。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">非凡本质Unusual Nature。纳-萨古不需要空气。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+非凡本质Unusual Nature。纳-萨古不需要空气。
 
-**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+**动作**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">多重攻击Multiattack。纳-萨古进行一次啃咬攻击和两次爪击攻击。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+多重攻击Multiattack。纳-萨古进行一次啃咬攻击和两次爪击攻击。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">啃咬Bite。近战武器攻击： +4命中，触及5尺，单一目标。命中： 11 ( 2d8 + 2 ) 点穿刺伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+啃咬Bite。近战武器攻击： +4命中，触及5尺，单一目标。命中： 11 ( 2d8 + 2 ) 点穿刺伤害。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">爪击Claw。近战武器攻击： +4命中，触及5尺，单一目标。命中： 4 ( 1d4 + 2 ) 点挥砍伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+爪击Claw。近战武器攻击： +4命中，触及5尺，单一目标。命中： 4 ( 1d4 + 2 ) 点挥砍伤害。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">提取大脑Extract Brain。近战武器攻击： +4命中，触及5尺，目标为一个失能的类人生物。命中： 35 ( 10d6 )点穿刺伤害。如果此伤害将目标的生命值降至0，则纳-萨古会通过取出和吞噬目标的大脑来杀死目标。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+提取大脑Extract Brain。近战武器攻击： +4命中，触及5尺，目标为一个失能的类人生物。命中： 35 ( 10d6 )点穿刺伤害。如果此伤害将目标的生命值降至0，则纳-萨古会通过取出和吞噬目标的大脑来杀死目标。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">心灵震爆Mind Blast（充能5-6）。纳-萨古会魔法般地向其自身10英尺内可以看到的一个类人生物发射心灵能量。目标必须进行一次DC 14的感知豁免。豁免失败目标会受到 9 ( 2d8 ) 点心灵伤害，并在其下一回合结束前陷入失能状态。成功豁免则目标会受到一半的伤害并且不会陷入失能状态。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+心灵震爆Mind Blast（充能5-6）。纳-萨古会魔法般地向其自身10英尺内可以看到的一个类人生物发射心灵能量。目标必须进行一次DC 14的感知豁免。豁免失败目标会受到 9 ( 2d8 ) 点心灵伤害，并在其下一回合结束前陷入失能状态。成功豁免则目标会受到一半的伤害并且不会陷入失能状态。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">施法（灵能）Spellcasting (Psionics)。纳-萨古天生施法属性为智力（法术豁免 DC11）。它天生可施展以下一个法术而不需要任何相应的法术成分，但它必须吞噬足够数量的大脑才能施展该法术，如下所示：</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+施法（灵能）Spellcasting (Psionics)。纳-萨古天生施法属性为智力（法术豁免 DC11）。它天生可施展以下一个法术而不需要任何相应的法术成分，但它必须吞噬足够数量的大脑才能施展该法术，如下所示：
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">每天 1 次：哈达之臂（1个大脑），侦测魔法（2个大脑），魔法飞弹（3个大脑），谭森浮碟术（4个大脑），黑暗术（5个大脑），定身类人（6个大脑），隐形术（7个大脑），蛛行术（8个大脑），恐惧术（9个大脑），催眠图纹（10个大脑），高级幻影（11个大脑），臭云术（12个大脑)</span>
+每天 1 次：哈达之臂（1个大脑），侦测魔法（2个大脑），魔法飞弹（3个大脑），谭森浮碟术（4个大脑），黑暗术（5个大脑），定身类人（6个大脑），隐形术（7个大脑），蛛行术（8个大脑），恐惧术（9个大脑），催眠图纹（10个大脑），高级幻影（11个大脑），臭云术（12个大脑)

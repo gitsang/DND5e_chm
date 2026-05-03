@@ -1,39 +1,39 @@
-**<span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体">大眼游星Eye Monger</span>**
+**大眼游星Eye Monger**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">当它巨大的眼睛和嘴巴合上时，大眼游星看上去只是一颗12尺直径的小行星。当它感受到周围的空间内有振动时，它便会睁开眼睛，露出自己危险的真面目。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+当它巨大的眼睛和嘴巴合上时，大眼游星看上去只是一颗12尺直径的小行星。当它感受到周围的空间内有振动时，它便会睁开眼睛，露出自己危险的真面目。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">大眼游星用不上财宝，但它的肚子里可能会有相当数量它无法消化的贵重物品，包括钱币、金属武器、宝石和属于那些被它囫囵吞下的生物的魔法物品。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+大眼游星用不上财宝，但它的肚子里可能会有相当数量它无法消化的贵重物品，包括钱币、金属武器、宝石和属于那些被它囫囵吞下的生物的魔法物品。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">大眼游星无法像眼魔那样从眼中放射出反魔法锥，但它的食道能够抑制魔法，这能够阻止被吞噬的生物使用魔法从中逃跑。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+大眼游星无法像眼魔那样从眼中放射出反魔法锥，但它的食道能够抑制魔法，这能够阻止被吞噬的生物使用魔法从中逃跑。
 
-#### **<span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体">大眼游星Eye Monger</span><span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体"></span>**
+#### **大眼游星Eye Monger**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">大型异怪，普遍守序邪恶</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+大型异怪，普遍守序邪恶
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">护甲等级 17（天生护甲）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+护甲等级 17（天生护甲）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">生命值 149（13d10+78）</span>
+生命值 149（13d10+78）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">速度 0尺，飞行20尺（悬浮）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+速度 0尺，飞行20尺（悬浮）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">力量21（+5）敏捷6（-2）体质23（+6）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+力量21（+5）敏捷6（-2）体质23（+6）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">智力7（-2）感知13（+1）魅力7（-2）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+智力7（-2）感知13（+1）魅力7（-2）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">感官 黑暗视觉120尺，盲视120尺（当大眼游星的眼睛闭上时）。被动察觉11</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+感官 黑暗视觉120尺，盲视120尺（当大眼游星的眼睛闭上时）。被动察觉11
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">语言 深潜语</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+语言 深潜语
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">挑战等级 10（5，900XP）熟练加值+4</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+挑战等级 10（5，900XP）熟练加值+4
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">反魔法食道Antimagic Gullet。除非由神器和神创造，否则由法术和魔法物品制造的魔法效应在大眼游星的食道中会被压制。食道中的生物为施展法术或激活魔法物品效应所消耗的任何法术位或充能都会被浪费掉。当效应被压制时，它不会产生效果，但仍然计算持续时间。除非由神器和神创造，否则任何发源于大眼游星食道之外的法术效应都不能影响到处于其食道内的生物或物件。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+反魔法食道Antimagic Gullet。除非由神器和神创造，否则由法术和魔法物品制造的魔法效应在大眼游星的食道中会被压制。食道中的生物为施展法术或激活魔法物品效应所消耗的任何法术位或充能都会被浪费掉。当效应被压制时，它不会产生效果，但仍然计算持续时间。除非由神器和神创造，否则任何发源于大眼游星食道之外的法术效应都不能影响到处于其食道内的生物或物件。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">拟态False Appearance。如果大眼游星在战斗开始时静止不动，也没有张开眼睛或嘴巴，则它的先攻骰具有优势。此外，如果生物没有观察到大眼游星移动或行动，则这名生物必须成功通过一个DC18的智力(调查)检定，以辨别出大眼游星是一个活着的生物。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+拟态False Appearance。如果大眼游星在战斗开始时静止不动，也没有张开眼睛或嘴巴，则它的先攻骰具有优势。此外，如果生物没有观察到大眼游星移动或行动，则这名生物必须成功通过一个DC18的智力(调查)检定，以辨别出大眼游星是一个活着的生物。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">非凡本质Unusual Nature。大眼游星不需要呼吸空气。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+非凡本质Unusual Nature。大眼游星不需要呼吸空气。
 
-**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+**动作**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">啃咬Bite。近战武器攻击：命中+9，触及5尺，单一目标。命中：12（2d6+5）点穿刺伤害，如果目标为一个中型或更小的生物，它必须成功通过一次DC18的敏捷豁免，否则被大眼游星囫囵吞下，进入到它的食道之中（见反魔法食道）。大眼游星一次只能吞入一个生物。被吞下的生物陷入目盲和束缚，并且对发源于大眼游星外部的攻击和效应处于全身掩护，在其每个回合开始时，它会受到35（10d6）点强酸伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+啃咬Bite。近战武器攻击：命中+9，触及5尺，单一目标。命中：12（2d6+5）点穿刺伤害，如果目标为一个中型或更小的生物，它必须成功通过一次DC18的敏捷豁免，否则被大眼游星囫囵吞下，进入到它的食道之中（见反魔法食道）。大眼游星一次只能吞入一个生物。被吞下的生物陷入目盲和束缚，并且对发源于大眼游星外部的攻击和效应处于全身掩护，在其每个回合开始时，它会受到35（10d6）点强酸伤害。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">如果大眼游星在一个回合内受到来自体内生物的25点或更多伤害，它会吐出吞下的生物。该生物会以倒地状态出现在大眼游星周围10尺内一处空间中。如果大眼游星死亡，被吞下的生物便不再受到束缚，且可以消耗10尺移动力逃出，然后在尸体旁现身并陷入倒地状态。</span>
+如果大眼游星在一个回合内受到来自体内生物的25点或更多伤害，它会吐出吞下的生物。该生物会以倒地状态出现在大眼游星周围10尺内一处空间中。如果大眼游星死亡，被吞下的生物便不再受到束缚，且可以消耗10尺移动力逃出，然后在尸体旁现身并陷入倒地状态。

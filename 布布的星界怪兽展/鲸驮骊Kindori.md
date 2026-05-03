@@ -1,41 +1,41 @@
-**<span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体">鲸驮骊Kindori</span>**
+**鲸驮骊Kindori**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">鲸驮骊是荒宇中已知最大的生物之一。它们外形上类似于水生鲸鱼，同时也是哺乳动物。一个成年样本可长达80英尺。　　</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+鲸驮骊是荒宇中已知最大的生物之一。它们外形上类似于水生鲸鱼，同时也是哺乳动物。一个成年样本可长达80英尺。　　
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">鲸驮骊没有明显的嘴部。它身体的前缘布满了许多小眼睛，可以发出明亮的光束，用以在逃跑时致盲猎手。鲸驮骊彼此之间通过眼睛发出的闪光信号进行远距离交流，它们从太阳和星辰的光辉中汲取营养。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+鲸驮骊没有明显的嘴部。它身体的前缘布满了许多小眼睛，可以发出明亮的光束，用以在逃跑时致盲猎手。鲸驮骊彼此之间通过眼睛发出的闪光信号进行远距离交流，它们从太阳和星辰的光辉中汲取营养。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　鲸驮骊巨大到能够拥有自己的重力平面和气囊，让更小的生物得以在它们的身上生活和旅行。苔藓、霉菌以及其他寄生生物会生长在它们的表皮上，也同样能引来其他捕食者将它们清理掉。有些独眼会以这些寄生生物为食，而鲸驮骊自己也不会在意。如果一条鲸驮骊身上的植被和藤蔓生长得过于茂盛，那么这条鲸驮骊要么是极度年老，要么患了病。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　鲸驮骊巨大到能够拥有自己的重力平面和气囊，让更小的生物得以在它们的身上生活和旅行。苔藓、霉菌以及其他寄生生物会生长在它们的表皮上，也同样能引来其他捕食者将它们清理掉。有些独眼会以这些寄生生物为食，而鲸驮骊自己也不会在意。如果一条鲸驮骊身上的植被和藤蔓生长得过于茂盛，那么这条鲸驮骊要么是极度年老，要么患了病。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　即使是在被各种寄生生物吃干抹净以后，死去的鲸驮骊的硬骨和软骨都不会变质。在鲸驮骊的骷髅中安装一座法驱魔舵就可以让其变成一艘魔法船。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　即使是在被各种寄生生物吃干抹净以后，死去的鲸驮骊的硬骨和软骨都不会变质。在鲸驮骊的骷髅中安装一座法驱魔舵就可以让其变成一艘魔法船。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　鲸驮骊性情温顺，但天敌众多，包括月亮龙，太阳龙以及各种居住在荒宇的族裔。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　鲸驮骊性情温顺，但天敌众多，包括月亮龙，太阳龙以及各种居住在荒宇的族裔。
 
-#### **<span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体">鲸驮骊Kindori</span><span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体"></span>**
+#### **鲸驮骊Kindori**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">超巨型天族，无阵营</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+超巨型天族，无阵营
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">AC：11（天生护甲）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+AC：11（天生护甲）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">HP：202（15d20+45）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+HP：202（15d20+45）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">速度：0尺，飞行60尺（悬浮）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+速度：0尺，飞行60尺（悬浮）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">力量25（+7） 敏捷7（-2） 体质17（+3）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+力量25（+7） 敏捷7（-2） 体质17（+3）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">智力6（-2） 感知14（+2） 魅力7（-2）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+智力6（-2） 感知14（+2） 魅力7（-2）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">感官：黑暗视觉120尺，被动察觉12</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+感官：黑暗视觉120尺，被动察觉12
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">语言：-</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+语言：-
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">挑战等级：7（2，900 XP）熟练加值：+3</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+挑战等级：7（2，900 XP）熟练加值：+3
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">非凡本质Unusual Nature。鲸驮骊不需要空气、食物和水。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+非凡本质Unusual Nature。鲸驮骊不需要空气、食物和水。
 
-**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+**动作**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">尾击Tail。近战武器攻击：命中+10，触及5尺，单一目标。命中：23（3d10+7）点钝击伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+尾击Tail。近战武器攻击：命中+10，触及5尺，单一目标。命中：23（3d10+7）点钝击伤害。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">**附赠动作**</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+**附赠动作**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">闪光之眼flashing Eyes。（充能6）鲸驮骊能发出一阵明亮的光，影响一处120尺锥形范围的区域。锥形范围内的每个生物都必须通过一次DC14的感知豁免，否则陷入目盲1分钟。生物可以在其每回合结束时重复该豁免，成功则结束该效果对自身的影响。</span>
+闪光之眼flashing Eyes。（充能6）鲸驮骊能发出一阵明亮的光，影响一处120尺锥形范围的区域。锥形范围内的每个生物都必须通过一次DC14的感知豁免，否则陷入目盲1分钟。生物可以在其每回合结束时重复该豁免，成功则结束该效果对自身的影响。

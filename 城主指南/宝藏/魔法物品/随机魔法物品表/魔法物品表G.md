@@ -1,802 +1,97 @@
-<table class="MsoTableGrid" data-border="0" data-cellspacing="0" data-cellpadding="0" style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
- 0cm 5.4pt 0cm 5.4pt">
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<tbody>
-<tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><strong><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-font-kerning:
-  0pt">d100</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></strong></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><strong><span style="font-family:黑体;mso-font-kerning:0pt">魔法物品<span lang="EN-US"></span></span></strong></p></td>
-</tr>
-<tr style="mso-yfti-irow:1">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">01~11</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">武器</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">weapon, +2</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:2">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">12~14</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;Heiti SC Light&quot;;
-  mso-ascii-font-family:Calibri;mso-font-kerning:0pt">异能塑像</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:
-  0pt">figurine of wondrous power (</span><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">骰</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">d8)</span><span lang="EN-US" style="mso-font-kerning:
-  0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:3">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;mso-bidi-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt">1</span><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;mso-font-kerning:0pt"></span></p></td>
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">青铜狮鹫</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">bronze griffon</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:4">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;mso-bidi-font-family:Calibri;mso-font-kerning:0pt">2</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:
-  0pt"></span></p></td>
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">乌木苍蝇</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">ebony fly</span></p></td>
-</tr>
-<tr style="mso-yfti-irow:5">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;mso-bidi-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt">3</span><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;mso-font-kerning:0pt"></span></p></td>
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">黄金狮子</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">golden lions</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:6">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;mso-bidi-font-family:Calibri;mso-font-kerning:0pt">4</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:
-  0pt"></span></p></td>
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">象牙山羊</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">ivory goats</span></p></td>
-</tr>
-<tr style="mso-yfti-irow:7">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;mso-bidi-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt">5</span><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;mso-font-kerning:0pt"></span></p></td>
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">大理石象</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">marble elephant</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:8">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;mso-bidi-font-family:Calibri;mso-font-kerning:0pt">6~7</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:
-  0pt"></span></p></td>
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">玛瑙犬</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">onyx dog</span></p></td>
-</tr>
-<tr style="mso-yfti-irow:9;height:4.25pt">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt; height: 4.25pt"><p><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt; height: 4.25pt"><p><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">8</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:
-  0pt"></span></p></td>
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt; height: 4.25pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">蛇纹石猫头鹰</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">serpentine owl</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:10">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">15</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">精金护甲</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-bidi-font-family:Calibri;mso-font-kerning:0pt">adamantine armor (</span><span style="font-family:&quot;STHeiti light&quot;;mso-font-kerning:0pt">胸甲</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-bidi-font-family:
-  Calibri;mso-font-kerning:0pt">)</span><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:11">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">16</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">精金护甲</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-bidi-font-family:Calibri;
-  color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">adamantine armor (</span><span style="font-family:&quot;STHeiti light&quot;;mso-ascii-font-family:Calibri;mso-hansi-font-family:
-  Calibri;color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">板条甲</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">)</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:12">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">17</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">健康护符</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">amulet of health</span></p></td>
-</tr>
-<tr style="mso-yfti-irow:13">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">18</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">易伤护甲</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">armor of vulnerability</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:
-  0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:14">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">19</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">吸矢盾</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-bidi-font-family:Calibri;mso-font-kerning:0pt">arrow-catching shield</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:
-  0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:15">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">20</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">矮人腰带</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">belt of dwarvenkind</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:16">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">21</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">山丘巨人之力腰带</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">belt of hill giant strength</span></p></td>
-</tr>
-<tr style="mso-yfti-irow:17">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">22</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">狂战斧</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">berserker axe</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:18">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">23</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">浮空之靴</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">boots of levitation</span></p></td>
-</tr>
-<tr style="mso-yfti-irow:19">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">24</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">速度之靴</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">boots of speed</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:20">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">25</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;Heiti SC Light&quot;;
-  mso-ascii-font-family:Calibri;mso-font-kerning:0pt">命令元素水钵</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:
-  0pt">bowl of commanding water elementals</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:21">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">26</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">防御护腕</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">bracers of defense</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:
-  0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:22">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">27</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">命令元素火盆</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">brazier of commanding fire elementals</span></p></td>
-</tr>
-<tr style="mso-yfti-irow:23">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">28</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">江湖骗子披风</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">cape of the mountebank</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:
-  0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:24">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">29</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">命令元素香炉</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">censer of controlling air elementals</span></p></td>
-</tr>
-<tr style="mso-yfti-irow:25">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">30</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">护甲</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">armor, +1 </span><span style="font-family:
-  &quot;STHeiti light&quot;;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">链甲</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:
-  0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:26">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">31</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">抗性护甲</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-bidi-font-family:Calibri;mso-font-kerning:0pt">armor of resistance (</span><span style="font-family:&quot;STHeiti light&quot;;mso-ascii-font-family:Calibri;mso-hansi-font-family:
-  Calibri;mso-font-kerning:0pt">链甲</span><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;mso-font-kerning:0pt">)</span></p></td>
-</tr>
-<tr style="mso-yfti-irow:27">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">32</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">护甲</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">armor, +1 </span><span style="font-family:&quot;STHeiti light&quot;;mso-ascii-font-family:Calibri;mso-hansi-font-family:
-  Calibri;color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">链甲衫</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:
-  0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:28">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">33</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">抗性护甲</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-bidi-font-family:Calibri;mso-font-kerning:0pt">armor of resistance (</span><span style="font-family:&quot;STHeiti light&quot;;mso-ascii-font-family:Calibri;mso-hansi-font-family:
-  Calibri;mso-font-kerning:0pt">链甲衫</span><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;mso-font-kerning:0pt">)</span></p></td>
-</tr>
-<tr style="mso-yfti-irow:29">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">34</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">移位斗篷</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">cloak of displacement</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:
-  0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:30">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">35</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">蝙蝠斗篷</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">cloak of the bat</span></p></td>
-</tr>
-<tr style="mso-yfti-irow:31">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">36</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">力场魔方</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">cube </span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-bidi-font-family:Calibri;
-  color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">o</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">f force</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:
-  0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:32">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">37</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;Heiti SC Light&quot;;
-  mso-ascii-font-family:Calibri;mso-font-kerning:0pt">戴恩的折叠要塞</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-bidi-font-family:
-  Calibri;mso-font-kerning:0pt">D</span><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;mso-font-kerning:0pt">aern's instant fortress</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:33">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">38</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;Heiti SC Light&quot;;
-  mso-ascii-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt">淬毒匕首</span><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">dagger of venom</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:34">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">39</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">次元镣铐</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">dimensional shackles</span></p></td>
-</tr>
-<tr style="mso-yfti-irow:35">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">40</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;Heiti SC Light&quot;;
-  mso-ascii-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt">屠龙者</span><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">dragon slayer</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:36">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">41</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;Heiti SC Light&quot;;
-  mso-ascii-font-family:Calibri;mso-font-kerning:0pt">精灵链甲衫</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:
-  0pt">elven chain</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:37">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">42</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;Heiti SC Light&quot;;
-  mso-ascii-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt">焰舌</span><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">flame tongue</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:38">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">43</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;Heiti SC Light&quot;;
-  mso-ascii-font-family:Calibri;mso-font-kerning:0pt">真视宝石</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:
-  0pt">gem of seeing</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:39">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">44</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;Heiti SC Light&quot;;
-  mso-ascii-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt">巨人屠杀者</span><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">giant slayer</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:40">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">45</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;Heiti SC Light&quot;;
-  mso-ascii-font-family:Calibri;mso-font-kerning:0pt">幻惑镶钉皮甲</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:
-  0pt">glamoured studded leather</span><span lang="EN-US" style="mso-font-kerning:
-  0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:41">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">46</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;Heiti SC Light&quot;;
-  mso-ascii-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt">传送头盔</span><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">helm of teleportation</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:42">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">47</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;Heiti SC Light&quot;;
-  mso-ascii-font-family:Calibri;mso-font-kerning:0pt">音爆号角</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:
-  0pt">horn of blasting</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:43">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">48</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;Heiti SC Light&quot;;
-  mso-ascii-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt">瓦尔哈拉号角</span><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">horn of </span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-bidi-font-family:Calibri;color:black;mso-color-alt:windowtext;mso-font-kerning:
-  0pt">V</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">alhalla (</span><span style="font-family:&quot;STHeiti light&quot;;mso-ascii-font-family:Calibri;mso-hansi-font-family:
-  Calibri;color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">白银或黄铜</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">)</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:44">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">49</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">吟游诗人乐器</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">instrument of the bards<br />
-(</span><span style="font-family:&quot;Heiti SC Light&quot;;mso-ascii-font-family:Calibri;
-  mso-font-kerning:0pt">藤蔓曼陀林</span><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;mso-bidi-font-family:Calibri;mso-font-kerning:0pt">C</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:
-  0pt">anaith mandolin)</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:45">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">50</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">吟游诗人乐器</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">instrument of the bards<br />
-(</span><span style="font-family:&quot;STHeiti light&quot;;mso-ascii-font-family:Calibri;
-  mso-hansi-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt">聆听者七弦琴</span><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">C</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-bidi-font-family:
-  Calibri;color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">l</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">i lyre)</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:
-  0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:46;height:4.7pt">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt; height: 4.7pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">51</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt; height: 4.7pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">艾恩石</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-bidi-font-family:Calibri;mso-font-kerning:0pt">Ioun stone (</span><span style="font-family:&quot;STHeiti light&quot;;mso-ascii-font-family:Calibri;mso-hansi-font-family:
-  Calibri;mso-font-kerning:0pt">警觉</span><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;mso-font-kerning:0pt">)</span></p></td>
-</tr>
-<tr style="mso-yfti-irow:47">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">52</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">艾恩石</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-bidi-font-family:Calibri;
-  color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">Ioun stone (</span><span style="font-family:&quot;STHeiti light&quot;;mso-ascii-font-family:Calibri;mso-hansi-font-family:
-  Calibri;color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">防护</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">)</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:48">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">53</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">艾恩石</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-bidi-font-family:Calibri;mso-font-kerning:0pt">Ioun stone (</span><span style="font-family:&quot;STHeiti light&quot;;mso-ascii-font-family:Calibri;mso-hansi-font-family:
-  Calibri;mso-font-kerning:0pt">储法</span><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;mso-font-kerning:0pt">)</span></p></td>
-</tr>
-<tr style="mso-yfti-irow:49">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">54</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">艾恩石</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-bidi-font-family:Calibri;
-  color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">Ioun stone (</span><span style="font-family:&quot;STHeiti light&quot;;mso-ascii-font-family:Calibri;mso-hansi-font-family:
-  Calibri;color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">维生</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">)</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:50">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">55</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">比拉罗的铁索</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">iron bands of Bilarro</span><span style="font-family:
-  &quot;MS Mincho&quot;;mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:51">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">56</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">护甲</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">armor, +1 </span><span style="font-family:
-  &quot;STHeiti light&quot;;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
-  color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">皮甲</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:
-  0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:52">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-font-kerning:0pt">57</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">抗性护甲</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-bidi-font-family:Calibri;mso-font-kerning:0pt">armor of resistance (</span><span style="font-family:&quot;STHeiti light&quot;;mso-ascii-font-family:Calibri;mso-hansi-font-family:
-  Calibri;mso-font-kerning:0pt">皮甲</span><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;mso-font-kerning:0pt">) </span></p></td>
-</tr>
-<tr style="mso-yfti-irow:53">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-bidi-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt">58</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">瓦解之锤</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">mace of disruption</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:54">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-bidi-font-family:Calibri;mso-font-kerning:0pt">59</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">打击之锤</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">mace of smiting </span></p></td>
-</tr>
-<tr style="mso-yfti-irow:55">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">60</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">恐惧之锤</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">mace of terror </span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:56">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">61</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">抗魔披风</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">mantle of spell resistance</span><span style="font-family:&quot;MS Mincho&quot;;mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:57">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">62</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">念珠项链</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">necklace of prayer beads</span><span style="font-family:&quot;MS Mincho&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:58">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">63</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">辟毒护符</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">periapt of proof against poison</span></p></td>
-</tr>
-<tr style="mso-yfti-irow:59">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">64</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">感化动物戒指</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">ring of animal influence</span><span style="font-family:&quot;MS Mincho&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:60">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">65</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">反射闪避戒指</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">ring of evasion</span><span style="font-family:&quot;MS Mincho&quot;;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:61">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">66</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">羽落戒指</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">ring of feather falling</span><span style="font-family:&quot;MS Mincho&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:62">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">67</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">自由行动戒指</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">ring of free action</span><span style="font-family:
-  &quot;MS Mincho&quot;;mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:
-  0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:63">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">68</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">防护戒指</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">ring of protection</span><span style="font-family:&quot;MS Mincho&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:64">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">69</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">抗性戒指</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">ring of resistance</span><span style="font-family:&quot;MS Mincho&quot;;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:65">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">70</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">储法戒指</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">ring of spell </span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-bidi-font-family:Calibri;
-  color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">storing</span><span style="font-family:&quot;MS Mincho&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:66">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">71</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">公羊戒指</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">ring of the ram</span><span style="font-family:
-  &quot;MS Mincho&quot;;mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:
-  0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:67">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">72</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;mso-bidi-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt">X</span><span style="font-family:&quot;STHeiti light&quot;;
-  color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">射线戒指</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">ring of x-ray vision</span><span style="font-family:&quot;MS Mincho&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:68">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">73</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">百眼法袍</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">robe of eyes</span><span style="font-family:&quot;MS Mincho&quot;;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:69">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">74</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">支配权杖</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">rod of rulership</span><span style="font-family:&quot;MS Mincho&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:70">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">75</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">契约掌控者权杖</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">rod of the pact keeper, +2</span><span style="font-family:&quot;MS Mincho&quot;;mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:71">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">76</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">纠缠绳</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">rope of entanglement</span><span style="font-family:&quot;MS Mincho&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:72">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">77</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">护甲</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">armor, +1 </span><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">鳞甲</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:73">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">78</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">抗性护甲</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-bidi-font-family:Calibri;
-  color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">armor of resistance (</span><span style="font-family:&quot;STHeiti light&quot;;mso-ascii-font-family:
-  Calibri;mso-hansi-font-family:Calibri;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt">鳞甲</span><span lang="EN-US" style="mso-fareast-font-family:
-  &quot;STHeiti light&quot;;color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">)</span><span style="font-family:&quot;MS Mincho&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:74">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">79</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">盾牌</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">shield, +2</span><span style="font-family:&quot;MS Mincho&quot;;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:75">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">80</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">引弹盾</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">shield of missile attraction</span><span style="font-family:&quot;MS Mincho&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:76">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">81</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">魅惑法杖</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">staff of charming</span><span style="font-family:&quot;MS Mincho&quot;;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:77">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">82</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">治疗法杖</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">staff of healing</span><span style="font-family:&quot;MS Mincho&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:78">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">83</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">虫群法杖</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">staff of swarming insects</span><span style="font-family:
-  &quot;MS Mincho&quot;;mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:
-  0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:79">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">84</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">丛林法杖</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">staff of the woodlands</span><span style="font-family:&quot;MS Mincho&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:80">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">85</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">凋零法杖</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">staff of withering</span><span style="font-family:&quot;MS Mincho&quot;;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:81">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">86</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">命令元素石核</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">stone of controlling earth elementals </span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:
-  0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:82">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">87</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">阳炎剑</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">sun blade</span><span style="font-family:&quot;MS Mincho&quot;;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:83">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">88</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">窃命剑</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">sword of life stealing</span><span style="font-family:&quot;MS Mincho&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:84">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">89</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">血光剑</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">sword of wounding</span><span style="font-family:&quot;MS Mincho&quot;;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:85">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">90</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">触须权杖</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">tentacle rod</span><span style="font-family:
-  &quot;MS Mincho&quot;;color:black;mso-color-alt:windowtext;mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:86">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">91</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">恶毒武器</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">vicious weapon</span><span style="font-family:&quot;MS Mincho&quot;;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:87">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">92</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">定身魔杖</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">wand of binding</span><span style="font-family:&quot;MS Mincho&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:88">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">93</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">搜敌魔杖</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">wand of enemy detection</span><span style="font-family:
-  &quot;MS Mincho&quot;;mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:
-  0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:89">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">94</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">恐惧魔杖</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">wand of fear</span><span style="font-family:
-  &quot;MS Mincho&quot;;color:black;mso-color-alt:windowtext;mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:90">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">95</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">火球魔杖</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">wand of fireballs</span><span style="font-family:&quot;MS Mincho&quot;;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:91">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">96</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">闪电束魔杖</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">wand of lightning bolts</span><span style="font-family:&quot;MS Mincho&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:92">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">97</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">麻痹魔杖</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">wand of paralysis</span><span style="font-family:&quot;MS Mincho&quot;;mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:93">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">98</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">战法师魔杖</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">wand of the war mage, +2</span><span style="font-family:&quot;MS Mincho&quot;;color:black;mso-color-alt:windowtext;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:94">
-<td data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="mso-font-kerning:0pt">99</span></p></td>
-<td colspan="2" data-valign="top" style="padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-font-kerning:
-  0pt">惊异魔杖</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;
-  mso-font-kerning:0pt">wand of wonder</span><span style="font-family:&quot;MS Mincho&quot;;
-  mso-font-kerning:0pt"></span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-</tr>
-<tr style="mso-yfti-irow:95;mso-yfti-lastrow:yes">
-<td data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span lang="EN-US" style="color:black;mso-color-alt:windowtext;mso-font-kerning:0pt">00</span><span lang="EN-US" style="mso-font-kerning:0pt"></span></p></td>
-<td colspan="2" data-valign="top" style="background: #D8D8D8; padding: 0cm 5.4pt 0cm 5.4pt"><p><span style="font-family:&quot;STHeiti light&quot;;
-  mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color:black;
-  mso-color-alt:windowtext;mso-font-kerning:0pt">飞翼斗篷</span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;color:black;mso-color-alt:
-  windowtext;mso-font-kerning:0pt">wings of flying </span><span lang="EN-US" style="mso-fareast-font-family:&quot;STHeiti light&quot;;mso-font-kerning:0pt"></span></p></td>
-</tr>
-</tbody>
-</table>
+| **d100** | **魔法物品** |   |
+| --- | --- | --- |
+| 01~11 | 武器weapon, +2 |   |
+| 12~14 | 异能塑像figurine of wondrous power (骰d8) |   |
+|   | 1 | 青铜狮鹫bronze griffon |
+|   | 2 | 乌木苍蝇ebony fly |
+|   | 3 | 黄金狮子golden lions |
+|   | 4 | 象牙山羊ivory goats |
+|   | 5 | 大理石象marble elephant |
+|   | 6~7 | 玛瑙犬onyx dog |
+|   | 8 | 蛇纹石猫头鹰serpentine owl |
+| 15 | 精金护甲adamantine armor (胸甲) |   |
+| 16 | 精金护甲adamantine armor (板条甲) |   |
+| 17 | 健康护符amulet of health |   |
+| 18 | 易伤护甲armor of vulnerability |   |
+| 19 | 吸矢盾arrow-catching shield |   |
+| 20 | 矮人腰带belt of dwarvenkind |   |
+| 21 | 山丘巨人之力腰带belt of hill giant strength |   |
+| 22 | 狂战斧berserker axe |   |
+| 23 | 浮空之靴boots of levitation |   |
+| 24 | 速度之靴boots of speed |   |
+| 25 | 命令元素水钵bowl of commanding water elementals |   |
+| 26 | 防御护腕bracers of defense |   |
+| 27 | 命令元素火盆brazier of commanding fire elementals |   |
+| 28 | 江湖骗子披风cape of the mountebank |   |
+| 29 | 命令元素香炉censer of controlling air elementals |   |
+| 30 | 护甲armor, +1 链甲 |   |
+| 31 | 抗性护甲armor of resistance (链甲) |   |
+| 32 | 护甲armor, +1 链甲衫 |   |
+| 33 | 抗性护甲armor of resistance (链甲衫) |   |
+| 34 | 移位斗篷cloak of displacement |   |
+| 35 | 蝙蝠斗篷cloak of the bat |   |
+| 36 | 力场魔方cube of force |   |
+| 37 | 戴恩的折叠要塞Daern's instant fortress |   |
+| 38 | 淬毒匕首dagger of venom |   |
+| 39 | 次元镣铐dimensional shackles |   |
+| 40 | 屠龙者dragon slayer |   |
+| 41 | 精灵链甲衫elven chain |   |
+| 42 | 焰舌flame tongue |   |
+| 43 | 真视宝石gem of seeing |   |
+| 44 | 巨人屠杀者giant slayer |   |
+| 45 | 幻惑镶钉皮甲glamoured studded leather |   |
+| 46 | 传送头盔helm of teleportation |   |
+| 47 | 音爆号角horn of blasting |   |
+| 48 | 瓦尔哈拉号角horn of Valhalla (白银或黄铜) |   |
+| 49 | 吟游诗人乐器instrument of the bards (藤蔓曼陀林Canaith mandolin) |   |
+| 50 | 吟游诗人乐器instrument of the bards (聆听者七弦琴Cli lyre) |   |
+| 51 | 艾恩石Ioun stone (警觉) |   |
+| 52 | 艾恩石Ioun stone (防护) |   |
+| 53 | 艾恩石Ioun stone (储法) |   |
+| 54 | 艾恩石Ioun stone (维生) |   |
+| 55 | 比拉罗的铁索iron bands of Bilarro |   |
+| 56 | 护甲armor, +1 皮甲 |   |
+| 57 | 抗性护甲armor of resistance (皮甲) |   |
+| 58 | 瓦解之锤mace of disruption |   |
+| 59 | 打击之锤mace of smiting |   |
+| 60 | 恐惧之锤mace of terror |   |
+| 61 | 抗魔披风mantle of spell resistance |   |
+| 62 | 念珠项链necklace of prayer beads |   |
+| 63 | 辟毒护符periapt of proof against poison |   |
+| 64 | 感化动物戒指ring of animal influence |   |
+| 65 | 反射闪避戒指ring of evasion |   |
+| 66 | 羽落戒指ring of feather falling |   |
+| 67 | 自由行动戒指ring of free action |   |
+| 68 | 防护戒指ring of protection |   |
+| 69 | 抗性戒指ring of resistance |   |
+| 70 | 储法戒指ring of spell storing |   |
+| 71 | 公羊戒指ring of the ram |   |
+| 72 | X射线戒指ring of x-ray vision |   |
+| 73 | 百眼法袍robe of eyes |   |
+| 74 | 支配权杖rod of rulership |   |
+| 75 | 契约掌控者权杖rod of the pact keeper, +2 |   |
+| 76 | 纠缠绳rope of entanglement |   |
+| 77 | 护甲armor, +1 鳞甲 |   |
+| 78 | 抗性护甲armor of resistance (鳞甲) |   |
+| 79 | 盾牌shield, +2 |   |
+| 80 | 引弹盾shield of missile attraction |   |
+| 81 | 魅惑法杖staff of charming |   |
+| 82 | 治疗法杖staff of healing |   |
+| 83 | 虫群法杖staff of swarming insects |   |
+| 84 | 丛林法杖staff of the woodlands |   |
+| 85 | 凋零法杖staff of withering |   |
+| 86 | 命令元素石核stone of controlling earth elementals |   |
+| 87 | 阳炎剑sun blade |   |
+| 88 | 窃命剑sword of life stealing |   |
+| 89 | 血光剑sword of wounding |   |
+| 90 | 触须权杖tentacle rod |   |
+| 91 | 恶毒武器vicious weapon |   |
+| 92 | 定身魔杖wand of binding |   |
+| 93 | 搜敌魔杖wand of enemy detection |   |
+| 94 | 恐惧魔杖wand of fear |   |
+| 95 | 火球魔杖wand of fireballs |   |
+| 96 | 闪电束魔杖wand of lightning bolts |   |
+| 97 | 麻痹魔杖wand of paralysis |   |
+| 98 | 战法师魔杖wand of the war mage, +2 |   |
+| 99 | 惊异魔杖wand of wonder |   |
+| 00 | 飞翼斗篷wings of flying |   |

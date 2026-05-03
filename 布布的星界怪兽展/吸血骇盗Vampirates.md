@@ -1,153 +1,153 @@
-## **<span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体">吸血骇盗Vampirates</span><span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体"></span>**
+## **吸血骇盗Vampirates**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　吸血骇盗是那些拒绝平静地进入来世的已死海盗的会行走和说话的躯壳。它们驾驶着船只在虚空中穿梭，掠夺毫无戒心的船只，并以那些不幸与他们遭遇的人的生命能量为食。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　吸血骇盗是那些拒绝平静地进入来世的已死海盗的会行走和说话的躯壳。它们驾驶着船只在虚空中穿梭，掠夺毫无戒心的船只，并以那些不幸与他们遭遇的人的生命能量为食。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　吸血骇盗的外形十分憔悴，眼睛是乳白色的，皮肤干燥得如同羊皮纸一样。有些人会用假腿和钩子代替肢体，那是它们不幸往事留下来的纪念。吸血骇盗和吸血鬼一样有着尖牙，但它们不会用尖牙从猎物身上吸取生物体液，它们觉得这种行为十分的不体面。取而代之，吸血骇盗通过触摸，或者是在短距离内吸取另一个生物的能量来补充生命能量。当饱食了其他生物的能量以后，它们的外表看起来会更加健壮，但依然不像是个活人。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　吸血骇盗的外形十分憔悴，眼睛是乳白色的，皮肤干燥得如同羊皮纸一样。有些人会用假腿和钩子代替肢体，那是它们不幸往事留下来的纪念。吸血骇盗和吸血鬼一样有着尖牙，但它们不会用尖牙从猎物身上吸取生物体液，它们觉得这种行为十分的不体面。取而代之，吸血骇盗通过触摸，或者是在短距离内吸取另一个生物的能量来补充生命能量。当饱食了其他生物的能量以后，它们的外表看起来会更加健壮，但依然不像是个活人。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　吸血骇盗也会吃、喝和睡，但只是出于喜好，而不是出于必要。它们在木制的棺材或装满坟墓泥土的箱子里休息。如果没有这样的容器，它们也可以把自己的船舱看作是一个大棺材，然后躺在货舱的中间。当它们不在睡觉或掠劫的时候，吸血骇盗们就会用朗姆酒和唱些悲伤的船歌来打发时间。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　吸血骇盗也会吃、喝和睡，但只是出于喜好，而不是出于必要。它们在木制的棺材或装满坟墓泥土的箱子里休息。如果没有这样的容器，它们也可以把自己的船舱看作是一个大棺材，然后躺在货舱的中间。当它们不在睡觉或掠劫的时候，吸血骇盗们就会用朗姆酒和唱些悲伤的船歌来打发时间。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　吸血骇盗的船上通常有着一个或更多的幽影那是部分吸血骇盗受害者们的不死残骸。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　吸血骇盗的船上通常有着一个或更多的幽影那是部分吸血骇盗受害者们的不死残骸。
 
-**<span style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体">吸血骇盗Vampirate</span>**
+**吸血骇盗Vampirate**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">中型亡灵，普遍守序邪恶</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+中型亡灵，普遍守序邪恶
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">AC：14（天生护甲）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+AC：14（天生护甲）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">HP：42（5d8+20）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+HP：42（5d8+20）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">速度：30尺</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+速度：30尺
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">力量12（+1） 敏捷14（+2） 体质18（+4）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+力量12（+1） 敏捷14（+2） 体质18（+4）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">智力10（+0） 感知11（+0） 魅力12（+1）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+智力10（+0） 感知11（+0） 魅力12（+1）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">伤害易伤：光耀</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+伤害易伤：光耀
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">伤害免疫：寒冷，暗蚀，毒素</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+伤害免疫：寒冷，暗蚀，毒素
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">状态免疫：魅惑，力竭，中毒</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+状态免疫：魅惑，力竭，中毒
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">感官：黑暗视觉120尺，被动察觉10</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+感官：黑暗视觉120尺，被动察觉10
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">语言：自己生前懂得的语言</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+语言：自己生前懂得的语言
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">挑战等级：2（450 XP）熟练加值：+2</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+挑战等级：2（450 XP）熟练加值：+2
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">爆炸Explode。当吸血骇盗的生命值降低为0时，它就会爆炸成一团灰烬云。周围5尺内的生物必须进行一次DC14的体质豁免，豁免失败者将受到5（1d10）点暗蚀伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+爆炸Explode。当吸血骇盗的生命值降低为0时，它就会爆炸成一团灰烬云。周围5尺内的生物必须进行一次DC14的体质豁免，豁免失败者将受到5（1d10）点暗蚀伤害。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">蛛行Spider Climb。吸血骇盗无需进行属性检定就能攀爬于困难表面，包括倒挂在天花板上。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+蛛行Spider Climb。吸血骇盗无需进行属性检定就能攀爬于困难表面，包括倒挂在天花板上。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">非凡本质Unusual Nature。吸血骇盗不需要空气和水。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+非凡本质Unusual Nature。吸血骇盗不需要空气和水。
 
-**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+**动作**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">吸取能量Energy Drain。近战或远程法术攻击：命中+4，触及5尺或射程30尺，单一生物。命中：11（2d10）点暗蚀伤害。如果一个类人生物的生命值因此降至0，则目标死亡，并立即变成一个DM操纵，具有自由意志的 幽影Shadow 。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+吸取能量Energy Drain。近战或远程法术攻击：命中+4，触及5尺或射程30尺，单一生物。命中：11（2d10）点暗蚀伤害。如果一个类人生物的生命值因此降至0，则目标死亡，并立即变成一个DM操纵，具有自由意志的 幽影Shadow 。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">轻弩Light Crossbow。远程武器攻击：命中+4，射程80/320尺，单一目标。命中：11（2d8+2）点穿刺伤害。</span>
+轻弩Light Crossbow。远程武器攻击：命中+4，射程80/320尺，单一目标。命中：11（2d8+2）点穿刺伤害。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">【\*校注：它确实没有攀爬速度，但有蛛行。下方同理】</span>
+【\*校注：它确实没有攀爬速度，但有蛛行。下方同理】
 
-### **<span style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体">吸血骇盗船长Vampirate Captain</span><span style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体"></span>**
+### **吸血骇盗船长Vampirate Captain**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">吸血骇盗船员的行动完全取决于船长的情绪与性格。可能一艘船上的船员表现得就是帮凶残的暴徒，而另一艘船上的则会遵守古老的骑士道。一名船长可能会让遭劫船只上的所有船员活下去，而另一名则可能只会在海盗的航迹中留下一些残骸和垃圾。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+吸血骇盗船员的行动完全取决于船长的情绪与性格。可能一艘船上的船员表现得就是帮凶残的暴徒，而另一艘船上的则会遵守古老的骑士道。一名船长可能会让遭劫船只上的所有船员活下去，而另一名则可能只会在海盗的航迹中留下一些残骸和垃圾。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">船长们经常会有一个亡灵伙伴，像蠕行之爪或者鬼火。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+船长们经常会有一个亡灵伙伴，像蠕行之爪或者鬼火。
 
-#### **<span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体">吸血骇盗船长Vampirate Captain</span><span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体"></span>**
+#### **吸血骇盗船长Vampirate Captain**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">中型亡灵，普遍守序邪恶</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+中型亡灵，普遍守序邪恶
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">AC：15（天生护甲）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+AC：15（天生护甲）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">HP：85（10d8+40）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+HP：85（10d8+40）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">速度：30尺</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+速度：30尺
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">力量15（+2） 敏捷16（+3） 体质18（+4）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+力量15（+2） 敏捷16（+3） 体质18（+4）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">智力12（+1） 感知13（+1） 魅力16（+3）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+智力12（+1） 感知13（+1） 魅力16（+3）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">豁免：体质+7，感知+4，魅力+6</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+豁免：体质+7，感知+4，魅力+6
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">伤害易伤：光耀</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+伤害易伤：光耀
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">伤害免疫：寒冷，暗蚀，毒素</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+伤害免疫：寒冷，暗蚀，毒素
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">状态免疫：魅惑，力竭，中毒</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+状态免疫：魅惑，力竭，中毒
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">感官：黑暗视觉120尺，被动察觉11</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+感官：黑暗视觉120尺，被动察觉11
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">语言：自己生前懂得的语言</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+语言：自己生前懂得的语言
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">挑战等级：6（2，300 XP）熟练加值：+3</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+挑战等级：6（2，300 XP）熟练加值：+3
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">爆炸Explode。当吸血骇盗的生命值降低为0时，它就会爆炸成一团灰烬云。周围5尺内的生物必须进行一次DC15的体质豁免，豁免失败者将受到16（3d10）点暗蚀伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+爆炸Explode。当吸血骇盗的生命值降低为0时，它就会爆炸成一团灰烬云。周围5尺内的生物必须进行一次DC15的体质豁免，豁免失败者将受到16（3d10）点暗蚀伤害。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">蛛行Spider Climb。吸血骇盗无需进行属性检定就能攀爬于困难表面，包括倒挂在天花板上。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+蛛行Spider Climb。吸血骇盗无需进行属性检定就能攀爬于困难表面，包括倒挂在天花板上。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">非凡本质Unusual Nature。吸血骇盗不需要空气和水。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+非凡本质Unusual Nature。吸血骇盗不需要空气和水。
 
-**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+**动作**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">吸取能量Energy Drain。近战或远程法术攻击：命中+6，触及5尺或射程30尺，单一生物。命中：22（4d10）点暗蚀伤害。如果一个类人生物的生命值因此降至0，则目标死亡，并立即变成一个DM操纵，具有自由意志的 幽影Shadow 或 吸血骇盗Vampirate（由船长选择）。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+吸取能量Energy Drain。近战或远程法术攻击：命中+6，触及5尺或射程30尺，单一生物。命中：22（4d10）点暗蚀伤害。如果一个类人生物的生命值因此降至0，则目标死亡，并立即变成一个DM操纵，具有自由意志的 幽影Shadow 或 吸血骇盗Vampirate（由船长选择）。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">重弩Heavy Crossbow。远程武器攻击：命中+6，射程100/400尺，单一目标。命中：19（3d10+3）点穿刺伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+重弩Heavy Crossbow。远程武器攻击：命中+6，射程100/400尺，单一目标。命中：19（3d10+3）点穿刺伤害。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">全船隐形Ship Invisibility（短休或长休后充能）。船长脚下的船，以及船上的所有生物和物件，对不在船上的生物隐形。船长必须专注于这个效果来维持它（就如同专注一道法术），最多持续1个小时。如果船长离开了船，效应也随之结束。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+全船隐形Ship Invisibility（短休或长休后充能）。船长脚下的船，以及船上的所有生物和物件，对不在船上的生物隐形。船长必须专注于这个效果来维持它（就如同专注一道法术），最多持续1个小时。如果船长离开了船，效应也随之结束。
 
-**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">反应</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+**反应**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">直觉闪避Uncanny Dodge。当船长被一个可视敌人的一次攻击命中时，此次攻击的伤害减半。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+直觉闪避Uncanny Dodge。当船长被一个可视敌人的一次攻击命中时，此次攻击的伤害减半。
 
-### **<span style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体">吸血骇盗魔法师Vampirate Mage</span><span style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体"></span>**
+### **吸血骇盗魔法师Vampirate Mage**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　吸血骇盗们的船自然也需要有一个施法者来操纵法驱魔舵。吸血骇盗魔法师几乎不会离开魔舵。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　吸血骇盗们的船自然也需要有一个施法者来操纵法驱魔舵。吸血骇盗魔法师几乎不会离开魔舵。
 
-#### **<span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体">吸血骇盗魔法师Vampirate Mage </span><span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体"></span>**
+#### **吸血骇盗魔法师Vampirate Mage **
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">中型亡灵，普遍守序邪恶</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+中型亡灵，普遍守序邪恶
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">AC：14（天生护甲）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+AC：14（天生护甲）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">HP：68（8d8+32）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+HP：68（8d8+32）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">速度：30尺</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+速度：30尺
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">力量12（+1） 敏捷14（+2） 体质18（+4）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+力量12（+1） 敏捷14（+2） 体质18（+4）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">智力13（+1） 感知14（+2） 魅力15（+2）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+智力13（+1） 感知14（+2） 魅力15（+2）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">豁免：感知+5，魅力+5</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+豁免：感知+5，魅力+5
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">伤害易伤：光耀</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+伤害易伤：光耀
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">伤害免疫：寒冷，暗蚀，毒素</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+伤害免疫：寒冷，暗蚀，毒素
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">状态免疫：魅惑，力竭，中毒</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+状态免疫：魅惑，力竭，中毒
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">感官：黑暗视觉120尺，被动察觉12</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+感官：黑暗视觉120尺，被动察觉12
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">语言：自己生前懂得的语言</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+语言：自己生前懂得的语言
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">挑战等级：5（1，800 XP）熟练加值：+3</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+挑战等级：5（1，800 XP）熟练加值：+3
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">爆炸Explode。当吸血骇盗的生命值降低为0时，它就会爆炸成一团灰烬云。周围5尺内的生物必须进行一次DC14的体质豁免，豁免失败者将受到11（2d10）点暗蚀伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+爆炸Explode。当吸血骇盗的生命值降低为0时，它就会爆炸成一团灰烬云。周围5尺内的生物必须进行一次DC14的体质豁免，豁免失败者将受到11（2d10）点暗蚀伤害。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">蛛行Spider Climb。吸血骇盗无需进行属性检定就能攀爬于困难表面，包括倒挂在天花板上。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+蛛行Spider Climb。吸血骇盗无需进行属性检定就能攀爬于困难表面，包括倒挂在天花板上。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">非凡本质Unusual Nature。吸血骇盗不需要空气和水。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+非凡本质Unusual Nature。吸血骇盗不需要空气和水。
 
-**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+**动作**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">多重攻击Multiattack。吸血骇盗法师进行两次寒冷射线攻击。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+多重攻击Multiattack。吸血骇盗法师进行两次寒冷射线攻击。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">吸取能量Energy Drain。近战或远程法术攻击：命中+5，触及5尺或射程30尺，单一生物。命中：22（4d10）点暗蚀伤害。如果一个类人生物的生命值因此降至0，则目标死亡，并立即变成一个DM操纵，具有自由意志的 幽影Shadow。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+吸取能量Energy Drain。近战或远程法术攻击：命中+5，触及5尺或射程30尺，单一生物。命中：22（4d10）点暗蚀伤害。如果一个类人生物的生命值因此降至0，则目标死亡，并立即变成一个DM操纵，具有自由意志的 幽影Shadow。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">寒冷射线Ray of Cold。远程法术攻击：命中+5，射程120尺，单一目标。命中：11（2d8+2）点寒冷伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+寒冷射线Ray of Cold。远程法术攻击：命中+5，射程120尺，单一目标。命中：11（2d8+2）点寒冷伤害。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">施法Spellcasting。魔法师可以施展下列的一道法术，其施法属性为魅力（法术豁免DC13）：</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+施法Spellcasting。魔法师可以施展下列的一道法术，其施法属性为魅力（法术豁免DC13）：
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">随意：法师之手，传讯术</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+随意：法师之手，传讯术
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">每项1/日：黑暗术，任意门，飞行术，催眠图纹</span>
+每项1/日：黑暗术，任意门，飞行术，催眠图纹

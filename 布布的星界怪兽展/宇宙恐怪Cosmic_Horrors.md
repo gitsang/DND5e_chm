@@ -1,55 +1,55 @@
-**<span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体">宇宙惊惧怪Cosmic Horrors</span>**
+**宇宙惊惧怪Cosmic Horrors**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">宇宙惊惧怪是偶然间脱离了遥远国度的束缚，漂流至星界的巨大而恶毒的实体。被遥远群星的光芒所吸引，这些生物入侵了荒宇系并将一个个世界化作荒芜。在它用某个世界中居民的心智和血肉将自己填饱之后，宇宙惊惧怪通常会返回虚空，并在那里陷入深度休眠，漫无目的地漂流直到饥饿或是其他刺激将它唤醒。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+宇宙惊惧怪是偶然间脱离了遥远国度的束缚，漂流至星界的巨大而恶毒的实体。被遥远群星的光芒所吸引，这些生物入侵了荒宇系并将一个个世界化作荒芜。在它用某个世界中居民的心智和血肉将自己填饱之后，宇宙惊惧怪通常会返回虚空，并在那里陷入深度休眠，漫无目的地漂流直到饥饿或是其他刺激将它唤醒。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">宇宙惊惧怪是遥远国度所衍生的最为强大的生物之一。尽管没有任何两个宇宙惊惧怪完全相同，但它们的外观确实有着某些共通之处：每一个都有至少100尺长或高，而它们的物理形态往往是一种眼睛，嘴巴，翅膀，触手和难以辨认的器官与附肢的不可思议的组合。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+宇宙惊惧怪是遥远国度所衍生的最为强大的生物之一。尽管没有任何两个宇宙惊惧怪完全相同，但它们的外观确实有着某些共通之处：每一个都有至少100尺长或高，而它们的物理形态往往是一种眼睛，嘴巴，翅膀，触手和难以辨认的器官与附肢的不可思议的组合。
 
-#### **<span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体">宇宙惊惧怪Cosmic Horror</span><span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体"></span>**
+#### **宇宙惊惧怪Cosmic Horror**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">超巨型异怪，普遍中立邪恶</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+超巨型异怪，普遍中立邪恶
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">护甲等级：15（天生护甲）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+护甲等级：15（天生护甲）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">生命值：280（16d20+112）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+生命值：280（16d20+112）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">速度：50尺，飞行100尺</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+速度：50尺，飞行100尺
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">力量27（+8） 敏捷10（+0） 体质25（+7）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+力量27（+8） 敏捷10（+0） 体质25（+7）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">智力24（+7） 感知15（+2） 魅力24（+7）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+智力24（+7） 感知15（+2） 魅力24（+7）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">豁免：智力+13，感知+8，魅力+13</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+豁免：智力+13，感知+8，魅力+13
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">伤害免疫：强酸，毒素</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+伤害免疫：强酸，毒素
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">状态免疫：魅惑，恐慌，中毒</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+状态免疫：魅惑，恐慌，中毒
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">感官：黑暗视觉240尺，被动察觉12</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+感官：黑暗视觉240尺，被动察觉12
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">语言：深潜语，心灵感应240尺</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+语言：深潜语，心灵感应240尺
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">挑战等级：18（20，000 XP）熟练加值+6</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+挑战等级：18（20，000 XP）熟练加值+6
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">传奇抗性(3/日)。宇宙惊惧怪豁免失败时，可以将其改为豁免成功。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+传奇抗性(3/日)。宇宙惊惧怪豁免失败时，可以将其改为豁免成功。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">超凡本质Unusual Nature。宇宙惊惧怪不需要空气。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+超凡本质Unusual Nature。宇宙惊惧怪不需要空气。
 
-**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+**动作**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">多重攻击Multiattack。宇宙惊惧怪发动一次啃咬和两次触须攻击。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+多重攻击Multiattack。宇宙惊惧怪发动一次啃咬和两次触须攻击。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">啃咬Bite。近战武器攻击：命中+14，触及10尺，单一目标。命中：22（4d6+8）点穿刺伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+啃咬Bite。近战武器攻击：命中+14，触及10尺，单一目标。命中：22（4d6+8）点穿刺伤害。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">触须Tentacle。近战武器攻击：命中+14，触及30尺，单一目标。命中：18（3d6+8）点力场伤害，且目标如果是生物就会被擒抱（逃脱DC 18）。直至擒抱终止前，宇宙惊惧怪无法用这一只触须擒抱另一个目标。宇宙惊惧怪有1d8+1条触手，每条都可以擒抱一个目标。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+触须Tentacle。近战武器攻击：命中+14，触及30尺，单一目标。命中：18（3d6+8）点力场伤害，且目标如果是生物就会被擒抱（逃脱DC 18）。直至擒抱终止前，宇宙惊惧怪无法用这一只触须擒抱另一个目标。宇宙惊惧怪有1d8+1条触手，每条都可以擒抱一个目标。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">心灵低语psychic whispers（充能5~6）。宇宙惊惧怪发出可怕的低语，充斥其周围60尺半径的球形空间。区域内任何非异怪的生物必须通过一次DC21的感知豁免。豁免失败者受到33（6d10）点心灵伤害，豁免成功则伤害减半。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+心灵低语psychic whispers（充能5~6）。宇宙惊惧怪发出可怕的低语，充斥其周围60尺半径的球形空间。区域内任何非异怪的生物必须通过一次DC21的感知豁免。豁免失败者受到33（6d10）点心灵伤害，豁免成功则伤害减半。
 
-**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">传奇动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+**传奇动作**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">宇宙惊惧怪拥有3</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">传奇动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">，用来选择执行下列</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">项。它每次只可选择执行一个</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">传奇动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">项，且必须在另一生物回合结束时执行。宇宙惊惧怪在其回合开始时恢复所有消耗的</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">传奇动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">数。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+宇宙惊惧怪拥有3**传奇动作**，用来选择执行下列**动作**项。它每次只可选择执行一个**传奇动作**项，且必须在另一生物回合结束时执行。宇宙惊惧怪在其回合开始时恢复所有消耗的**传奇动作**数。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">触手碾压Crushing Tentacle。宇宙惊惧怪碾压一个被它擒抱的生物，该生物必须通过一次DC22的体质豁免，失败则受18（3d6+8）点力场伤害，豁免成功则伤害减半。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+触手碾压Crushing Tentacle。宇宙惊惧怪碾压一个被它擒抱的生物，该生物必须通过一次DC22的体质豁免，失败则受18（3d6+8）点力场伤害，豁免成功则伤害减半。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">毒素喷射Psion Jet（消耗2</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">）。宇宙惊惧怪喷射出恶臭的气体并覆盖并覆盖一处30尺长、5尺宽的线状区域，该区域内的每个生物都必须进行一次DC21的体质豁免，豁免失败者将受到14（4d6）点毒素伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+毒素喷射Psion Jet（消耗2**动作**）。宇宙惊惧怪喷射出恶臭的气体并覆盖并覆盖一处30尺长、5尺宽的线状区域，该区域内的每个生物都必须进行一次DC21的体质豁免，豁免失败者将受到14（4d6）点毒素伤害。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">传送Teleport（消耗2</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">）。宇宙惊惧怪将自己和所有被它擒抱的生物传送至多120尺，到达任何它可以看到且未占据空间。</span>
+传送Teleport（消耗2**动作**）。宇宙惊惧怪将自己和所有被它擒抱的生物传送至多120尺，到达任何它可以看到且未占据空间。

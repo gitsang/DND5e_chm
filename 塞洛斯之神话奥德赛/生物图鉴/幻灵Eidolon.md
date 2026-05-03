@@ -1,62 +1,53 @@
-<div class="WordSection1" style="LAYOUT-GRID:  15.6pt none">
+**幻灵Eidolon**
+作为一个归来者，一个凡人的灵魂为了逃离地狱而牺牲了自己的身份，他的身份表现为一个像灵魂一样的精灵。虽然幻灵们拥有许多与他们前世有关的技能和细节，但他们与这些经历脱节，他们选择在世界上徘徊或沉迷于被死亡吸引的困扰之中。他们对前生的遗体或者回归的残余物不感兴趣。
+在各种类型的幻灵之中，迅步幻灵是最常见的，他们毫无目的的游荡。鬼刃幻灵通常来自于倒下的战士，并相信他们卷入了一场伟大而永无止境的战斗中。
+**亡灵本质Undead Nature**。一名幻灵不需要空气、饮食，以及睡眠。
 
-**<span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">幻灵</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">Eidolon</span>**<span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">作为一个归来者，一个凡人的灵魂为了逃离地狱而牺牲了自己的身份，他的身份表现为一个像灵魂一样的精灵。虽然幻灵们拥有许多与他们前世有关的技能和细节，但他们与这些经历脱节，他们选择在世界上徘徊或沉迷于被死亡吸引的困扰之中。他们对前生的遗体或者回归的残余物不感兴趣。</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">在各种类型的幻灵之中，迅步幻灵是最常见的，他们毫无目的的游荡。鬼刃幻灵通常来自于倒下的战士，并相信他们卷入了一场伟大而永无止境的战斗中。</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span>**<span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">亡灵本质</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">Undead Nature</span>**<span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">。一名幻灵不需要空气、饮食，以及睡眠。</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-  
-</span>
 
-<span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black"> </span>
-
-  
-**<span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">迅步幻灵</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">Flitterstep Eidolon</span>**<span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">中型不死</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black"> </span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">任意</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-AC 14  
-HP 44(8d8+8</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">）</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">速度</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">40</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">尺</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-STR 8(-1) DEX 18(+4) CON 13</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">（</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">+1) INT 11(+0) WIS 12(+1) CHA 10</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">（</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">+0</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">）</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">技能：察觉</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">+3</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">，隐匿</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">+8  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">伤害抗性：暗蚀，非魔法钝击、挥砍、穿刺</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">伤害免疫：毒素</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">状态免疫：魅惑，力竭，恐慌，受擒，麻痹，石化，中毒，束缚</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">感官：被动察觉</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">13  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">语言：生前所知道的语言</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">挑战：</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">3(700 XP)  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">模糊轮廓</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black"> blurred form</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">。除非幻灵陷入失能，否则对它的攻击骰具有劣势。</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">反射闪避</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">Evasion</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">。某个敏捷豁免通过后伤害减半的效应指定幻灵为目标时，其豁免成功则不受任何伤害，而豁免失败时则只受一半伤害。</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">虚体移动</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">Incorporeal Movement</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">。幻灵能像穿过困难地形那样穿过其他生物或物件。它在回合结束时若处于物件内则受到</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">5</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">（</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">1d10</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">）的力场伤害。</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">抵抗驱散</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">Turn Resistance</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">。幻灵抵抗驱散亡灵效应所做的豁免检定具有优势。</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">动作</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">Action  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">多重攻击</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">Multiattack.  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">幻灵进行两次近战攻击。在它的一次攻击之前或之后，它可以使用</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">Flitterstep(</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">如果它可用</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">)</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">。</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">闪烁匕首Flickering Dagger。</span>  
-<span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">近战武器攻击：</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">+6</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">，触及</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">5</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">尺，单一目标。</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">命中：</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">6</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">（</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">1d4+4</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">）穿刺伤害，外加</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">3</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">（</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">1d6</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">）心灵伤害</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">迅捷步</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">Flitterstep (</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">充能</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">5~6)  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">幻灵魔法般地传送到</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">30</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">尺内它能看到的一个未占据空间。如果它在传送后立即进行攻击，它在攻击骰上具有优势。</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-  
-</span>**<span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">鬼刃幻灵</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black"> Ghostblade Eidolon</span>**<span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">中型不死</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black"> </span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">任意</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-AC 12  
-HP 55(10d8+8</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">）</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">速度3</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">0</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">尺</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-STR 16(+3) DEX 15(+2) CON 12</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">（</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">+1) INT 13(+1) WIS 12(+1) CHA 14</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">（</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">+2</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">）</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">技能：特技</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">+5</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">，运动</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">+6</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">，察觉</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">+4  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">伤害抗性：暗蚀，非魔法钝击、挥砍、穿刺</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">伤害免疫：毒素</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">状态免疫：魅惑，力竭，恐慌，受擒，麻痹，石化，中毒，束缚</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">感官：被动察觉</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">14  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">语言：生前所知道的语言</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">挑战：</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">5(1,800 XP)  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">模糊轮廓</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black"> blurred form。</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">除非幻灵陷入失能，否则对它的攻击骰具有劣势。</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">虚体移动</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">Incorporeal Movement</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">。幻灵能像穿过困难地形那样穿过其他生物或物件。它在回合结束时若处于物件内则受到</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">5</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">（</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">1d10</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">）的力场伤害。</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">抵抗驱散</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">Turn Resistance</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">。幻灵抵抗驱散亡灵效应所做的豁免检定具有优势。</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">动作</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">Action  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">多重攻击</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">Multiattack.  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">幻灵进行两次鬼刃攻击。</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">鬼刃</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">Ghostblade.  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">近战武器攻击：</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">+6</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">，触及</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">5</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">尺，单一目标。</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">  
-</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">命中：8</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">（</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">1d8+3</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">）挥砍伤害，外加</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">11</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">（</span><span lang="EN-US" style="FONT-SIZE: 10pt; FONT-FAMILY: &quot;Segoe UI&quot;,sans-serif; COLOR: black">2d10</span><span style="FONT-SIZE: 10pt; FONT-FAMILY: 宋体; COLOR: black">）力场伤害。</span>
-
-</div>
+**迅步幻灵Flitterstep Eidolon**
+中型不死 任意
+AC 14
+HP 44(8d8+8）
+速度40尺
+STR 8(-1) DEX 18(+4) CON 13（+1) INT 11(+0) WIS 12(+1) CHA 10（+0）
+技能：察觉+3，隐匿+8
+伤害抗性：暗蚀，非魔法钝击、挥砍、穿刺
+伤害免疫：毒素
+状态免疫：魅惑，力竭，恐慌，受擒，麻痹，石化，中毒，束缚
+感官：被动察觉13
+语言：生前所知道的语言
+挑战：3(700 XP)
+模糊轮廓 blurred form。除非幻灵陷入失能，否则对它的攻击骰具有劣势。
+反射闪避Evasion。某个敏捷豁免通过后伤害减半的效应指定幻灵为目标时，其豁免成功则不受任何伤害，而豁免失败时则只受一半伤害。
+虚体移动Incorporeal Movement。幻灵能像穿过困难地形那样穿过其他生物或物件。它在回合结束时若处于物件内则受到5（1d10）的力场伤害。
+抵抗驱散Turn Resistance。幻灵抵抗驱散亡灵效应所做的豁免检定具有优势。
+动作Action
+多重攻击Multiattack.
+幻灵进行两次近战攻击。在它的一次攻击之前或之后，它可以使用Flitterstep(如果它可用)。
+闪烁匕首Flickering Dagger。
+近战武器攻击：+6，触及5尺，单一目标。
+命中：6（1d4+4）穿刺伤害，外加3（1d6）心灵伤害
+迅捷步Flitterstep (充能5~6)
+幻灵魔法般地传送到30尺内它能看到的一个未占据空间。如果它在传送后立即进行攻击，它在攻击骰上具有优势。
+**鬼刃幻灵 Ghostblade Eidolon**
+中型不死 任意
+AC 12
+HP 55(10d8+8）
+速度30尺
+STR 16(+3) DEX 15(+2) CON 12（+1) INT 13(+1) WIS 12(+1) CHA 14（+2）
+技能：特技+5，运动+6，察觉+4
+伤害抗性：暗蚀，非魔法钝击、挥砍、穿刺
+伤害免疫：毒素
+状态免疫：魅惑，力竭，恐慌，受擒，麻痹，石化，中毒，束缚
+感官：被动察觉14
+语言：生前所知道的语言
+挑战：5(1,800 XP)
+模糊轮廓 blurred form。除非幻灵陷入失能，否则对它的攻击骰具有劣势。
+虚体移动Incorporeal Movement。幻灵能像穿过困难地形那样穿过其他生物或物件。它在回合结束时若处于物件内则受到5（1d10）的力场伤害。
+抵抗驱散Turn Resistance。幻灵抵抗驱散亡灵效应所做的豁免检定具有优势。
+动作Action
+多重攻击Multiattack.
+幻灵进行两次鬼刃攻击。
+鬼刃Ghostblade.
+近战武器攻击：+6，触及5尺，单一目标。
+命中：8（1d8+3）挥砍伤害，外加11（2d10）力场伤害。

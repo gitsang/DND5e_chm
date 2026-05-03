@@ -1,91 +1,26 @@
-<div class="WordSection1" style="layout-grid:16.0pt">
+荒凉的荒地和潮湿的沼泽是Eastern Wynandir古老而巨大的天际巨龟们的故乡。这种巨龟从鼻子到尾巴将近长50尺，而且有长时间静止不动的习惯，他们很容易被误认为是远处低矮的山丘。 但是，当这些令人印象深刻的生物起身，并开始他们的行动时，这种景象在同等程度上激发了恐惧和敬畏。 这种体型巨大的杂食动物更喜欢以死去的植物为食，但同时也会利用它们遇到的任何可以食用的东西。
 
-<span style="font-size:10.0pt;font-family:宋体;color:black">荒凉的荒地和潮湿的沼泽是</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Eastern Wynandir</span><span style="font-size:10.0pt;font-family:
-宋体;color:black">古老而巨大的天际巨龟们的故乡。这种巨龟从鼻子到尾巴将近长</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">50</span><span style="font-size:10.0pt;font-family:宋体;color:black">尺，而且有长时间静止不动的习惯，他们很容易被误认为是远处低矮的山丘。</span><span style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-size:10.0pt;font-family:宋体;color:black">但是，当这些令人印象深刻的生物起身，并开始他们的行动时，这种景象在同等程度上激发了恐惧和敬畏。</span><span style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-size:10.0pt;font-family:宋体;color:black">这种体型巨大的杂食动物更喜欢以死去的植物为食，但同时也会利用它们遇到的任何可以食用的东西。</span>
 
-<span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">废民之友</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Friend to the Wastefolk</span><span style="font-size:10.0pt;
-font-family:宋体;color:black">。</span><span style="font-size:10.0pt;font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-size:10.0pt;
-font-family:宋体;color:black">这些宏伟而移动迟缓的野兽被东方的地精称为</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">“ kinespaji”</span><span style="font-size:10.0pt;font-family:宋体;color:black">，长期以来与</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Xhorhas</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">的居民维持着共生关系。</span><span style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black"> </span><span style="font-size:10.0pt;font-family:宋体;color:black">天际巨龟提供了可移动的家园，并在发生危机的时候可以充当攻城武器。</span>
+废民之友Friend to the Wastefolk。 这些宏伟而移动迟缓的野兽被东方的地精称为“ kinespaji”，长期以来与Xhorhas的居民维持着共生关系。 天际巨龟提供了可移动的家园，并在发生危机的时候可以充当攻城武器。
 
-<span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">天际巨龟</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Horizonback Tortoise  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">超巨型怪兽，</span><span style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-size:10.0pt;font-family:宋体;color:black">无阵营</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-AC 17</span><span style="font-size:10.0pt;font-family:宋体;color:black">（天生护甲），</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">22</span><span style="font-size:10.0pt;font-family:宋体;color:black">（在壳中时）</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">生命值</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black"> 227 (13d20+91)  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">速度</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black"> 20</span><span style="font-size:10.0pt;font-family:宋体;color:black">尺</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">力量</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">28</span><span style="font-size:10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">+9</span><span style="font-size:10.0pt;font-family:宋体;color:black">）</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black"> </span><span style="font-size:10.0pt;font-family:宋体;
-color:black">敏捷</span><span lang="EN-US" style="font-size:10.0pt;font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">3</span><span style="font-size:10.0pt;
-font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">-4</span><span style="font-size:
-10.0pt;font-family:宋体;color:black">）</span><span lang="EN-US" style="font-size:
-10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-size:10.0pt;font-family:宋体;color:black">体质</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">25</span><span style="font-size:10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">+7</span><span style="font-size:10.0pt;font-family:宋体;color:black">）</span><span style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-size:10.0pt;font-family:宋体;color:black">智力</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">4</span><span style="font-size:10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">-3</span><span style="font-size:10.0pt;font-family:宋体;color:black">）</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-size:10.0pt;font-family:宋体;color:black">感知</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">10</span><span style="font-size:10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">+0</span><span style="font-size:10.0pt;font-family:宋体;color:black">）</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-size:10.0pt;font-family:宋体;color:black">魅力</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">5</span><span style="font-size:10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">-3</span><span style="font-size:10.0pt;font-family:宋体;color:black">）</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">豁免：力量</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">+12</span><span style="font-size:10.0pt;font-family:宋体;color:black">，体质</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">+10  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">伤害免疫：毒素</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">状态免疫：中毒</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">感官：黑暗视觉</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">60</span><span style="font-size:10.0pt;font-family:宋体;color:black">尺</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">, </span><span style="font-size:10.0pt;font-family:宋体;color:black">被动感知</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">10  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">语言：理解地精语但无法说</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">挑战等级：</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">8(3</span><span style="font-size:10.0pt;font-family:宋体;color:black">，</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">900 XP)  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">水陆两栖</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Amphibious</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">。天际巨龟可以在空气和水中呼吸。</span><span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-  
-Massive Frame.</span><span style="font-size:10.0pt;font-family:宋体;color:black">该巨龟的龟壳上可以承载两万磅的重量，若其承载量超过</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">1</span><span style="font-size:10.0pt;font-family:宋体;color:black">万磅，则其移动速度减半。中体型及更小的生物可以在巨龟没有倒地的时候，在巨龟的下方移动。</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">当巨龟倒地时，在它下方的任何生物都会被擒抱（逃脱</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">DC 18</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">）。在擒抱结束前，该生物陷入倒地和束缚。</span><span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">动作</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Actions  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">啃咬</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Bite.</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">近战武器攻击：命中</span><span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">+12</span><span style="font-size:10.0pt;font-family:宋体;color:black">，触及</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">10</span><span style="font-size:10.0pt;font-family:宋体;color:black">尺，单一目标</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">.  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">伤害：</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">28</span><span style="font-size:10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">3d12+9</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">）钝击伤害。</span><span lang="EN-US" style="font-size:10.0pt;font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">  
-  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">外壳防御</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Shell Defense</span><span style="font-size:10.0pt;font-family:
-宋体;color:black">（充能</span><span lang="EN-US" style="font-size:10.0pt;font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">4-6</span><span style="font-size:10.0pt;
-font-family:宋体;color:black">）</span><span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">.</span><span style="font-size:
-10.0pt;font-family:宋体;color:black">巨龟缩回壳内，陷入倒地状态，并获得</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">+5 AC</span><span style="font-size:10.0pt;font-family:宋体;color:black">。当巨龟在其壳内时，它的速度为</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">0</span><span style="font-size:10.0pt;font-family:宋体;color:black">，无法增加。巨龟可以用一个动作从它的壳里爬出来，这样它视为不再倒地。</span><span lang="EN-US"> </span>
 
-</div>
+天际巨龟Horizonback Tortoise
+超巨型怪兽， 无阵营
+AC 17（天生护甲），22（在壳中时）
+生命值 227 (13d20+91)
+速度 20尺
+力量28（+9） 敏捷3（-4） 体质25（+7） 智力4（-3） 感知10（+0） 魅力5（-3）
+豁免：力量+12，体质+10
+伤害免疫：毒素
+状态免疫：中毒
+感官：黑暗视觉60尺, 被动感知10
+语言：理解地精语但无法说
+挑战等级：8(3，900 XP)
+水陆两栖Amphibious。天际巨龟可以在空气和水中呼吸。
+
+Massive Frame.该巨龟的龟壳上可以承载两万磅的重量，若其承载量超过1万磅，则其移动速度减半。中体型及更小的生物可以在巨龟没有倒地的时候，在巨龟的下方移动。
+当巨龟倒地时，在它下方的任何生物都会被擒抱（逃脱DC 18）。在擒抱结束前，该生物陷入倒地和束缚。
+动作Actions
+啃咬Bite.近战武器攻击：命中+12，触及10尺，单一目标.
+伤害：28（3d12+9）钝击伤害。
+外壳防御Shell Defense（充能4-6）.巨龟缩回壳内，陷入倒地状态，并获得+5 AC。当巨龟在其壳内时，它的速度为0，无法增加。巨龟可以用一个动作从它的壳里爬出来，这样它视为不再倒地。

@@ -1,59 +1,23 @@
-<span style="font-family:宋体;color:black">这些凶恶的魔鬼肥胖，有鳞，完全令人厌恶，它们从社会的黑暗边缘躲开窥探的眼睛，依靠毫无戒心的类人的生命力生存。那些死在邪蟾魔的进食下的生物留下了一具被称为空壳僵尸的腐烂的不死尸（本章早些时候介绍）。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span><span style="font-family:宋体;color:black">邪蟾魔喜欢以熟睡的类人动物的生命力为食，每晚都以同样的猎物为食，只要受害者不知道。</span><span style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-family:宋体;color:black">这确保了持久的营养来源，只要继续进食，受害者就会被可怕的噩梦所困扰。当一个邪蟾魔被发现时，它会试图和发现它的人达成协议。它可以提供物质财富来换取自由和沉默。只有当协议似乎不太可能达成的时候才会招致邪蟾魔的攻击。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-  
-</span>**<span style="font-size:14.0pt;font-family:宋体;color:black">邪蟾魔</span><span lang="EN-US" style="font-size:14.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Nergaliid</span>**<span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span><span style="font-family:宋体;color:black">大型邪魔（魔鬼），守序邪恶</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-AC</span><span style="font-family:宋体;color:black">：</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">12</span><span style="font-family:宋体;color:black">（自然护甲）</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-HP</span><span style="font-family:宋体;color:black">：</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">42</span><span style="font-family:宋体;color:black">（</span><span lang="EN-US" style="font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">4d10+20</span><span style="font-family:宋体;
-color:black">）</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-</span><span style="font-family:宋体;color:black">速度：</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">30</span><span style="font-family:宋体;color:black">尺</span><span lang="EN-US" style="font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">  
-  
-</span>**<span style="font-family:宋体;color:black">力量</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">18</span><span style="font-family:宋体;color:black">（</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">+4</span><span style="font-family:宋体;color:black">）</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-family:宋体;color:black">敏捷</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">12</span><span style="font-family:宋体;color:black">（</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">+1</span><span style="font-family:宋体;color:black">）</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-family:宋体;color:black">体质</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">20</span><span style="font-family:宋体;color:black">（</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">+5</span><span style="font-family:宋体;color:black">）</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span><span style="font-family:宋体;color:black">智力</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">12</span><span style="font-family:宋体;color:black">（</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">+1</span><span style="font-family:宋体;color:black">）</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-family:宋体;color:black">感知</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">10</span><span style="font-family:宋体;color:black">（</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">+0</span><span style="font-family:宋体;color:black">）</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-family:宋体;color:black">魅力</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> 12</span><span style="font-family:宋体;color:black">（</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">+1</span><span style="font-family:宋体;color:black">）</span>**<span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-  
-</span><span style="font-family:宋体;color:black">技能：欺诈</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">+5</span><span style="font-family:宋体;color:black">，感知</span><span lang="EN-US" style="font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">+2</span><span style="font-family:宋体;
-color:black">，潜行</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">+5  
-</span><span style="font-family:宋体;color:black">伤害抗性：冷冻、非银质及非魔法类型的钝击、挥砍、穿刺</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span><span style="font-family:宋体;color:black">伤害免疫：毒素、火焰</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span><span style="font-family:宋体;color:black">状态免疫：中毒</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span><span style="font-family:宋体;color:black">感官：黑暗视觉</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">120</span><span style="font-family:宋体;color:black">尺，被动察觉</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">12  
-</span><span style="font-family:宋体;color:black">语言：通用语，炼狱语</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span><span style="font-family:宋体;color:black">挑战等级：</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">3</span><span style="font-family:宋体;color:black">（</span><span lang="EN-US" style="font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">700 XP</span><span style="font-family:宋体;
-color:black">）</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-  
-</span>**<span style="font-family:宋体;color:black">暗影潜行</span>**<span style="font-family:宋体;color:black">（</span><span lang="EN-US" style="font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">Shadow Stealth</span><span style="font-family:
-宋体;color:black">）。在昏暗或黑暗中，邪蟾魔可以将隐藏动作作为附赠动作。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span>**<span style="font-family:宋体;color:black">立定起跳</span>**<span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-family:宋体;color:black">（</span><span lang="EN-US" style="font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">Standing Leap</span><span style="font-family:
-宋体;color:black">）。无论是否助跑，邪蟾魔最远可跳</span><span lang="EN-US" style="font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">30</span><span style="font-family:宋体;
-color:black">尺，最高</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">20</span><span style="font-family:宋体;color:black">尺。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-  
-</span>**<span style="font-family:宋体;color:black">动作</span>**<span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span>**<span style="font-family:宋体;color:black">啃咬：</span>**<span style="font-family:宋体;color:black">近战武器攻击：命中</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">+6</span><span style="font-family:宋体;color:black">，触及</span><span lang="EN-US" style="font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">5</span><span style="font-family:宋体;
-color:black">尺，单一生物。命中：</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">13</span><span style="font-family:宋体;color:black">（</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">2d8+4</span><span style="font-family:宋体;color:black">）的穿刺伤害，并且该目标生物必须通过</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">DC 15</span><span style="font-family:宋体;color:black">的体制豁免，否则将中毒</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">1</span><span style="font-family:宋体;color:black">分钟，该中毒生物可以在每轮结束后重复豁免鉴定，豁免成功则终止该中毒效果。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span>**<span style="font-family:宋体;color:black">舌头鞭打：</span>**<span style="font-family:宋体;color:black">近战武器攻击：命中</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">+6</span><span style="font-family:宋体;color:black">，触及</span><span lang="EN-US" style="font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">20</span><span style="font-family:宋体;
-color:black">尺，单一生物。命中：</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">10</span><span style="font-family:宋体;color:black">（</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">1d12+4</span><span style="font-family:宋体;color:black">）的钝击伤害。</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span>**<span style="font-family:宋体;color:black">生命虹吸</span>**<span style="font-family:宋体;color:black">（</span><span lang="EN-US" style="font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">Siphon Life</span><span style="font-family:
-宋体;color:black">）（充能</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">4——6</span><span style="font-family:宋体;color:black">）：邪蟾魔可以神奇的吸取周围</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">40</span><span style="font-family:宋体;color:black">尺内可见生物的生命，目标生物必须通过</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">DC15</span><span style="font-family:宋体;color:black">的智力豁免鉴定，若是处于失能状态的生物自动豁免失败。豁免失败的生物将承受</span><span lang="EN-US" style="font-family:&quot;Segoe UI&quot;,sans-serif;color:black">10</span><span style="font-family:宋体;color:black">（</span><span lang="EN-US" style="font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">3D6</span><span style="font-family:宋体;
-color:black">）的心灵伤害，邪蟾魔获得等同于该生物所受伤害的临时生命值；如果豁免成功，则该生物受到一半的心灵伤害，而邪蟾魔也不会获得临时生命值。如果该目标生物死于这次伤害，则他无生气的身体将在邪蟾魔回合结束时复生为一只空壳僵尸。</span><span lang="EN-US"> </span>
+这些凶恶的魔鬼肥胖，有鳞，完全令人厌恶，它们从社会的黑暗边缘躲开窥探的眼睛，依靠毫无戒心的类人的生命力生存。那些死在邪蟾魔的进食下的生物留下了一具被称为空壳僵尸的腐烂的不死尸（本章早些时候介绍）。
+邪蟾魔喜欢以熟睡的类人动物的生命力为食，每晚都以同样的猎物为食，只要受害者不知道。 这确保了持久的营养来源，只要继续进食，受害者就会被可怕的噩梦所困扰。当一个邪蟾魔被发现时，它会试图和发现它的人达成协议。它可以提供物质财富来换取自由和沉默。只有当协议似乎不太可能达成的时候才会招致邪蟾魔的攻击。
+
+**邪蟾魔Nergaliid**
+大型邪魔（魔鬼），守序邪恶
+AC：12（自然护甲）
+HP：42（4d10+20）
+速度：30尺
+**力量18（+4） 敏捷12（+1） 体质20（+5）
+智力12（+1） 感知10（+0） 魅力 12（+1）**
+技能：欺诈+5，感知+2，潜行+5
+伤害抗性：冷冻、非银质及非魔法类型的钝击、挥砍、穿刺
+伤害免疫：毒素、火焰
+状态免疫：中毒
+感官：黑暗视觉120尺，被动察觉12
+语言：通用语，炼狱语
+挑战等级：3（700 XP）
+**暗影潜行**（Shadow Stealth）。在昏暗或黑暗中，邪蟾魔可以将隐藏动作作为附赠动作。
+**立定起跳** （Standing Leap）。无论是否助跑，邪蟾魔最远可跳30尺，最高20尺。
+**动作**
+**啃咬：**近战武器攻击：命中+6，触及5尺，单一生物。命中：13（2d8+4）的穿刺伤害，并且该目标生物必须通过DC 15的体制豁免，否则将中毒1分钟，该中毒生物可以在每轮结束后重复豁免鉴定，豁免成功则终止该中毒效果。
+**舌头鞭打：**近战武器攻击：命中+6，触及20尺，单一生物。命中：10（1d12+4）的钝击伤害。
+**生命虹吸**（Siphon Life）（充能4——6）：邪蟾魔可以神奇的吸取周围40尺内可见生物的生命，目标生物必须通过DC15的智力豁免鉴定，若是处于失能状态的生物自动豁免失败。豁免失败的生物将承受10（3D6）的心灵伤害，邪蟾魔获得等同于该生物所受伤害的临时生命值；如果豁免成功，则该生物受到一半的心灵伤害，而邪蟾魔也不会获得临时生命值。如果该目标生物死于这次伤害，则他无生气的身体将在邪蟾魔回合结束时复生为一只空壳僵尸。

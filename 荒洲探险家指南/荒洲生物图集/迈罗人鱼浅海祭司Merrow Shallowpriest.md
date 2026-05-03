@@ -1,102 +1,29 @@
-<div class="WordSection1" style="layout-grid:16.0pt">
+居住在Menagerie海岸水底阴影之下有许多梅洛，其中的一些学会了利用元素的魔力。这些浅海祭司经常作为向导，带领着梅洛的狩猎队伍，他们中的一些人成为了强大的领导者，鼓动着他们的氏族对沿海地区进行恐怖活动并劫掠过往船只。
 
-<span style="font-size:10.0pt;font-family:宋体;color:black">居住在</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Menagerie</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">海岸水底阴影之下有许多梅洛，其中的一些学会了利用元素的魔力。这些浅海祭司经常作为向导，带领着梅洛的狩猎队伍，他们中的一些人成为了强大的领导者，鼓动着他们的氏族对沿海地区进行恐怖活动并劫掠过往船只。</span>
 
-<span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">有传言说，在</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Wildemount</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">下面的岩石中雕刻着地下水道和湖泊，浅海祭司们在那里管辖着巨大的梅洛的水下社区。人们认为这些邪恶的生物正在寻找淹没地表世界的手段，以让他们偷取他们想要的东西和人到黑暗的水域之下。</span>
+有传言说，在Wildemount下面的岩石中雕刻着地下水道和湖泊，浅海祭司们在那里管辖着巨大的梅洛的水下社区。人们认为这些邪恶的生物正在寻找淹没地表世界的手段，以让他们偷取他们想要的东西和人到黑暗的水域之下。
 
-<span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">虽然大多数浅海祭司并不限定自己为特定的神灵服务，但有些祭司崇拜着在水元素位面之中进行统治的实体，他们希望找到扩大其统治范围至艾桑椎亚海的方法。这些梅洛经常在海底建造起复杂的神殿和庙宇，为通向他们主人王国的位面准备一个神圣的空间。</span>
 
-<span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">梅洛浅海祭司</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Merrow Shallowpriest  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">大型怪兽，混乱邪恶</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-AC</span><span style="font-size:10.0pt;font-family:宋体;color:black">：</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">15 (</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">天生护甲</span><span lang="EN-US" style="font-size:10.0pt;font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">)  
-HP</span><span style="font-size:10.0pt;font-family:宋体;color:black">：</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">75 (10d10+20)  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">速度：</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">10</span><span style="font-size:10.0pt;font-family:宋体;color:black">尺</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">,</span><span style="font-size:10.0pt;font-family:宋体;color:black">游泳速度</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">40</span><span style="font-size:10.0pt;font-family:宋体;color:black">尺</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">力量</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black"> 18(+4) </span><span style="font-size:10.0pt;font-family:
-宋体;color:black">敏捷</span><span lang="EN-US" style="font-size:10.0pt;font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">14(+2) </span><span style="font-size:10.0pt;
-font-family:宋体;color:black">体质</span><span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">15(+2) </span><span style="font-size:10.0pt;font-family:宋体;color:black">智力</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">11(+1) </span><span style="font-size:10.0pt;font-family:宋体;color:black">感知</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">16(+3) </span><span style="font-size:10.0pt;font-family:宋体;color:black">魅力</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> 9(-1)  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">感官：黑暗视觉</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">60</span><span style="font-size:10.0pt;font-family:宋体;color:black">尺，被动察觉</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">13  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">语言：深渊语、水族语</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">挑战等级</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">4(1,100 XP)  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">两栖</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Amphibious.</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">梅洛可以在水中和空气中呼吸</span><span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">施法</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Spellcasting.  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">梅洛是一名</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">6</span><span style="font-size:10.0pt;font-family:宋体;color:black">级施法者，其施法属性为感知（法术豁免检定</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">DC13</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">，</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">+5</span><span style="font-size:10.0pt;font-family:宋体;color:black">命中）。它准备了以下德鲁伊法术：</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">戏法（任意）：德鲁伊伎俩，次级幻影，电爪</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-1</span><span style="font-size:10.0pt;font-family:宋体;color:black">环（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">4</span><span style="font-size:10.0pt;font-family:宋体;color:black">法术位）：治疗伤口，云雾术，雷鸣波</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-2</span><span style="font-size:10.0pt;font-family:宋体;color:black">环（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">3</span><span style="font-size:10.0pt;font-family:宋体;color:black">法术位）：定身类人，镜影术，迷踪步</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-3</span><span style="font-size:10.0pt;font-family:宋体;color:black">环（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">3</span><span style="font-size:10.0pt;font-family:宋体;color:black">法术位）：解除魔法、闪电束（见</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">”</span><span style="font-size:10.0pt;font-family:宋体;color:black">动作</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">“</span><span style="font-size:10.0pt;font-family:宋体;color:black">），雪雨暴</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-  
-  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">动作</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Actions  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">鱼叉</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Harpoon</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">。近战或远程武器攻击：命中</span><span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">+6</span><span style="font-size:
-10.0pt;font-family:宋体;color:black">，触及</span><span lang="EN-US" style="font-size:
-10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">5</span><span style="font-size:10.0pt;font-family:宋体;color:black">尺，或射程</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">20/60</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">，单一目标。</span><span lang="EN-US" style="font-size:10.0pt;font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">伤害：</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">11</span><span style="font-size:10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">2d6+4</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">）穿刺伤害。如果目标为中型或更小体型的生物，则目标将被梅洛向其所在方向拉近</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">10 </span><span style="font-size:10.0pt;font-family:宋体;color:black">尺。</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">闪电束</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Lightning Bolt</span><span style="font-size:10.0pt;font-family:
-宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">3</span><span style="font-size:10.0pt;
-font-family:宋体;color:black">环法术，需一个法术位）。梅洛射出一道</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">100</span><span style="font-size:10.0pt;font-family:宋体;color:black">尺长、</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">5</span><span style="font-size:10.0pt;font-family:宋体;color:black">尺宽的闪电。每一个处于该线型范围区域内的生物必须进行一次</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">DC 13</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">的敏捷豁免，豁免失败则受到</span><span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">28</span><span style="font-size:
-10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:
-10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">8d6</span><span style="font-size:10.0pt;font-family:宋体;color:black">）闪电伤害，豁免成功则伤害减半。</span><span lang="EN-US"> </span>
+虽然大多数浅海祭司并不限定自己为特定的神灵服务，但有些祭司崇拜着在水元素位面之中进行统治的实体，他们希望找到扩大其统治范围至艾桑椎亚海的方法。这些梅洛经常在海底建造起复杂的神殿和庙宇，为通向他们主人王国的位面准备一个神圣的空间。
 
-</div>
+
+梅洛浅海祭司Merrow Shallowpriest
+大型怪兽，混乱邪恶
+AC：15 (天生护甲)
+HP：75 (10d10+20)
+速度：10尺,游泳速度40尺
+力量 18(+4) 敏捷14(+2) 体质15(+2) 智力11(+1) 感知16(+3) 魅力 9(-1)
+感官：黑暗视觉60尺，被动察觉13
+语言：深渊语、水族语
+挑战等级4(1,100 XP)
+两栖Amphibious.梅洛可以在水中和空气中呼吸
+施法Spellcasting.
+梅洛是一名6级施法者，其施法属性为感知（法术豁免检定DC13，+5命中）。它准备了以下德鲁伊法术：
+戏法（任意）：德鲁伊伎俩，次级幻影，电爪
+1环（4法术位）：治疗伤口，云雾术，雷鸣波
+2环（3法术位）：定身类人，镜影术，迷踪步
+3环（3法术位）：解除魔法、闪电束（见”动作“），雪雨暴
+动作Actions
+鱼叉Harpoon。近战或远程武器攻击：命中+6，触及5尺，或射程20/60，单一目标。
+伤害：11（2d6+4）穿刺伤害。如果目标为中型或更小体型的生物，则目标将被梅洛向其所在方向拉近10 尺。
+闪电束Lightning Bolt（3环法术，需一个法术位）。梅洛射出一道100尺长、5尺宽的闪电。每一个处于该线型范围区域内的生物必须进行一次DC 13的敏捷豁免，豁免失败则受到28（8d6）闪电伤害，豁免成功则伤害减半。

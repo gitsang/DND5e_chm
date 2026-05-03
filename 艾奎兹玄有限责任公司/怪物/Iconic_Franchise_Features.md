@@ -10,50 +10,50 @@ Other factions such as the Six or Dran Enterprises have employees that take on c
 
 A monster or NPC that has a company position always carries the special items granted by that position (a cartographer's spyglass of clairvoyance and cartographer's map case, a hoardsperson's living loot satchel, and so forth). As normal, these items do not function for anyone else, and will be actively sought out by the organization that owns them if they are lost or stolen.
 
-**Iconic Cartographer**  
+**Iconic Cartographer**
 The iconic cartographer makes a point of knowing the position of every member of their team, understanding the layout of their immediate area and the location of any exits or escape routes.
 
-Recommended NPCs: Acolyte, druid, guard, scout, spy (Monster Manual); archer (Volo's Guide to Monsters)  
+Recommended NPCs: Acolyte, druid, guard, scout, spy (Monster Manual); archer (Volo's Guide to Monsters)
 Map of Shortcuts (1/Day). As an action, the cartographer produces a map from its cartographer's map case that shows useful shortcuts in the immediate area and then vanishes. Each creature of the cartographer's choice that can see the map can take the Dash or Disengage action as a bonus action on its next turn.
 
-**Iconic Decisionist**  
+**Iconic Decisionist**
 The iconic decisionist constantly polls allies and foes during the ongoing battle, getting a read on what everyone thinks, and then explaining how they're all completely wrong.
 
-Recommended NPCs: Bandit captain, knight, scout (Monster Manual); archer, enchanter (Volo's Guide to Monsters)  
+Recommended NPCs: Bandit captain, knight, scout (Monster Manual); archer, enchanter (Volo's Guide to Monsters)
 Better Odds (1/Day). As an action, this creature flips its coin of decisionry to determine the best course of action, choosing a number of creatures that can see and hear it. Each of the target creatures (in addition to this creature) rolls a d4 and adds the number rolled to the next ability check, saving throw, or attack roll it makes.
 
-**Iconic Documancer**  
+**Iconic Documancer**
 An iconic documancer acts with the authority of their organization. Documancers constantly speak in legalese, referencing obscure reasons why opponents will fail or should surrender.
 
-Recommended NPCs: Acolyte, mage, priest, veteran (Monster Manual); bard (Volo's Guide to Monsters)  
+Recommended NPCs: Acolyte, mage, priest, veteran (Monster Manual); bard (Volo's Guide to Monsters)
 Scroll Service (1/Day). As an action, the documancer draws a spell scroll from its documancy satchel. The scroll contains a spell of up to 3rd level of the documancer's choice. Only the documancer can use the scroll, which vanishes after 1 minute.
 
-**Iconic Hoardsperson**  
+**Iconic Hoardsperson**
 The iconic hoardsperson flaunts their wealth, knowing that foes are daunted by that which they have failed to earn.
 
-Recommended NPCs: Bandit captain, gladiator (Monster Manual); master thief, swashbuckler (Volo's Guide to Monsters)  
+Recommended NPCs: Bandit captain, gladiator (Monster Manual); master thief, swashbuckler (Volo's Guide to Monsters)
 That Thing You Need (3/Day). The hoardsperson pulls one item of its choice from the living loot satchel. This can be any item found on the Adventuring Gear table in chapter 5, "Equipment," of the Player's Handbook. The item must be worth no more than 15 gp.
 
-**Iconic Loremonger**  
+**Iconic Loremonger**
 The iconic loremonger trades in information, even when locked down in battle. A loremonger constantly tries to goad foes into revealing plans and secrets.
 
-Recommended NPCs: Cult fanatic, druid, mage, priest (Monster Manual); bard, enchanter (Volo's Guide to Monsters)  
+Recommended NPCs: Cult fanatic, druid, mage, priest (Monster Manual); bard, enchanter (Volo's Guide to Monsters)
 Whispered Encyclopedia (1/Day). When a visible creature within 20 feet of the loremonger makes an attack roll, a saving throw, or an ability check, the loremonger can use its reaction to impose disadvantage on the roll.
 
-**Iconic Obviator**  
+**Iconic Obviator**
 The iconic obviator sees foes as obstacles worthy of respect. Obviators engage in repartee, testing the minds and skills of their opponents as their own strategy is deployed.
 
-Recommended NPCs: Assassin, gladiator, priest (Monster Manual); martial arts adept, swashbuckler (Volo's Guide to Monsters)  
+Recommended NPCs: Assassin, gladiator, priest (Monster Manual); martial arts adept, swashbuckler (Volo's Guide to Monsters)
 Read the Opposition (1/Day). As a bonus action, the obviator chooses one other creature it can see, then relays information about the target's tactics to all creatures that can hear this creature. Until the end of the target creature's next turn, attack rolls and contested ability checks made against the target are made with advantage.
 
-**Iconic Occultant**  
+**Iconic Occultant**
 The iconic occultant believes that every action changes the world around them, requiring a proper reaction. Occultants attempt to inspire fear in their foes with dire prognostications and mysterious portents.
 
-Recommended NPCs: Berserker, druid, gladiator, knight, and tribal warrior (Monster Manual); diviner (Volo's Guide to Monsters)  
+Recommended NPCs: Berserker, druid, gladiator, knight, and tribal warrior (Monster Manual); diviner (Volo's Guide to Monsters)
 Bead of Instant Karma (1/Day). When a creature the occultant can see makes an attack roll, a saving throw, or an ability check, the occultant can use its reaction to give its choice of advantage or disadvantage to the roll.
 
-**Iconic Secretarian**  
+**Iconic Secretarian**
 The iconic secretarian treats their foes like customers, offering deals they shouldn't refuse and inviting them to switch allegiances for greater profit and security.
 
-Recommended NPCs: Acolyte, berserker, knight, noble, and priest (Monster Manual); bard, warlock of the archfey (Volo's Guide to Monsters)  
+Recommended NPCs: Acolyte, berserker, knight, noble, and priest (Monster Manual); bard, warlock of the archfey (Volo's Guide to Monsters)
 Charming Introduction (1/Day). As an action, the secretarian hands a business card from its portfolio keeper to a creature within 5 feet of it. The target must succeed on a DC 13 Charisma saving throw or be charmed by the secretarian, as if under the effect of the charm person spell.

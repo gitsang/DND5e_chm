@@ -1,51 +1,51 @@
-## **<span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体">怯蕴阿灵Chwinga</span><span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体"></span>**
+## **怯蕴阿灵Chwinga**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">怯蕴阿灵是微型元素精魂，可以轻松适应任何宜居的环境。这些温和的生物保护自然，认为自己是自然的卑微监护人。怯蕴阿灵生活在远离文明的植物、岩石和泉水中。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+怯蕴阿灵是微型元素精魂，可以轻松适应任何宜居的环境。这些温和的生物保护自然，认为自己是自然的卑微监护人。怯蕴阿灵生活在远离文明的植物、岩石和泉水中。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">怯蕴阿灵像6英寸高的活化娃娃，有面具般的面孔、骨瘦如柴的四肢和狂野的头发。它们没有名字，也不会说话。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+怯蕴阿灵像6英寸高的活化娃娃，有面具般的面孔、骨瘦如柴的四肢和狂野的头发。它们没有名字，也不会说话。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">怯蕴阿灵通常会避开其他生物，但它们发现文明的外衣很吸引人。它们对穿戴盔甲、携带武器、使用工具和烹饪食物的生物感到困惑。当怯蕴阿灵遇到一个或多个这样的生物时，它的好奇心迫使它在短时间内跟踪和观察它们。如果它对某个特定的生物有好感，怯蕴阿灵就会用自己的戏法来帮助这个生物，或者在离开之前赐予它一个魔法礼物。能够吸引怯蕴阿灵的特点多种多样。怯蕴阿灵可能会喜欢某个生物走路或梳理头发的方式，或者着迷于它演奏音乐或大快朵颐的能力。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+怯蕴阿灵通常会避开其他生物，但它们发现文明的外衣很吸引人。它们对穿戴盔甲、携带武器、使用工具和烹饪食物的生物感到困惑。当怯蕴阿灵遇到一个或多个这样的生物时，它的好奇心迫使它在短时间内跟踪和观察它们。如果它对某个特定的生物有好感，怯蕴阿灵就会用自己的戏法来帮助这个生物，或者在离开之前赐予它一个魔法礼物。能够吸引怯蕴阿灵的特点多种多样。怯蕴阿灵可能会喜欢某个生物走路或梳理头发的方式，或者着迷于它演奏音乐或大快朵颐的能力。
 
-#### **<span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体">怯蕴阿灵航天士Chwinga Astronaut</span><span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体"></span>**
+#### **怯蕴阿灵航天士Chwinga Astronaut**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　生活在荒宇的怯蕴阿灵们通常都居住在某些它们能生存的卫星和小行星上，但偶尔也会偷渡到一艘魔法船上或驾驭一条太空孔雀鱼。它们使用魔法赠礼Magical Gift能力时，可以施加下方所列的一种护咒，而非《城主指南》中所描述的护咒。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　生活在荒宇的怯蕴阿灵们通常都居住在某些它们能生存的卫星和小行星上，但偶尔也会偷渡到一艘魔法船上或驾驭一条太空孔雀鱼。它们使用魔法赠礼Magical Gift能力时，可以施加下方所列的一种护咒，而非《城主指南》中所描述的护咒。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　空气泡泡护咒Charm of Air Bubbles。该护咒允许你以一个</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">施展空气泡泡法术（参见《星界冒险者指南》）。使用三次该增益后，该护咒便会从你身上消失。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　空气泡泡护咒Charm of Air Bubbles。该护咒允许你以一个**动作**施展空气泡泡法术（参见《星界冒险者指南》）。使用三次该增益后，该护咒便会从你身上消失。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　临时工具护咒Charm of Instant Tools。该护咒可以让你魔法性地咒唤出一套工匠工具，导航工具或盗贼工具。咒唤出来的工具会出现在你的手中或你所占据空间的某处（由你选择）。使用一次该增益后，该护咒便会从你身上消失。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　临时工具护咒Charm of Instant Tools。该护咒可以让你魔法性地咒唤出一套工匠工具，导航工具或盗贼工具。咒唤出来的工具会出现在你的手中或你所占据空间的某处（由你选择）。使用一次该增益后，该护咒便会从你身上消失。
 
-#### **<span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体">怯蕴阿灵航天士Chwinga Astronaut</span><span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体"></span>**
+#### **怯蕴阿灵航天士Chwinga Astronaut**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">微型元素，普遍绝对中立</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+微型元素，普遍绝对中立
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">AC：15</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+AC：15
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">HP：7（3d4）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+HP：7（3d4）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">速度：20尺，攀爬20尺，游泳20尺</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+速度：20尺，攀爬20尺，游泳20尺
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">力量1（-5） 敏捷20（+5） 体质10（+0）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+力量1（-5） 敏捷20（+5） 体质10（+0）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">智力14（+2） 感知16（+3） 魅力16（+3）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+智力14（+2） 感知16（+3） 魅力16（+3）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">技能：特技+7，察觉+7，隐匿+7</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+技能：特技+7，察觉+7，隐匿+7
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">感官：盲视60尺，被动察觉17</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+感官：盲视60尺，被动察觉17
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">语言：-</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+语言：-
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">挑战等级：0（0 XP）熟练加值：+2</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+挑战等级：0（0 XP）熟练加值：+2
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">反射闪避Evasion。当怯蕴阿灵没有失能且可以进行敏捷豁免来使伤害减半时，如果它豁免成功，则它不受伤害；如果它豁免失败，则伤害减半。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+反射闪避Evasion。当怯蕴阿灵没有失能且可以进行敏捷豁免来使伤害减半时，如果它豁免成功，则它不受伤害；如果它豁免失败，则伤害减半。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">非凡本质Unusual Nature。怯蕴阿灵不需要空气，食物和水。当它死亡时，会化作一小撮月壤、一团闪熠的孢子、一尊如它以前模样的小石像，一块冰或一块十二面体的海绵（由DM选择）。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+非凡本质Unusual Nature。怯蕴阿灵不需要空气，食物和水。当它死亡时，会化作一小撮月壤、一团闪熠的孢子、一尊如它以前模样的小石像，一块冰或一块十二面体的海绵（由DM选择）。
 
-**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+**动作**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">魔法赠礼Magical Gift（1/天）。怯蕴阿灵选择自身5尺内一个它能看见的类人生物为目标。目标获得一项由DM选择的 超自然护咒supernatural charm 。查阅《城主指南》的第七章获得更多关于超自然护咒的信息。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+魔法赠礼Magical Gift（1/天）。怯蕴阿灵选择自身5尺内一个它能看见的类人生物为目标。目标获得一项由DM选择的 超自然护咒supernatural charm 。查阅《城主指南》的第七章获得更多关于超自然护咒的信息。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">自然庇护所Natural Shelter。怯蕴阿灵能将它所占据空间内的一块石头、灌木，树木或是一处天然淡水的水源内部当做它的庇护所。当怯蕴阿灵位于庇护所的魔法保护中时，它无法成为任何攻击、法术或其他效果的目标，并且庇护所不会让怯蕴阿灵失去它的盲视能力。以一个</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">，怯蕴阿灵可以使自己从庇护所中现身。如果它的庇护所被破坏，则怯蕴阿灵将被迫离开庇护所并出现在庇护所所在的空间，但它本身不会受到伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+自然庇护所Natural Shelter。怯蕴阿灵能将它所占据空间内的一块石头、灌木，树木或是一处天然淡水的水源内部当做它的庇护所。当怯蕴阿灵位于庇护所的魔法保护中时，它无法成为任何攻击、法术或其他效果的目标，并且庇护所不会让怯蕴阿灵失去它的盲视能力。以一个**动作**，怯蕴阿灵可以使自己从庇护所中现身。如果它的庇护所被破坏，则怯蕴阿灵将被迫离开庇护所并出现在庇护所所在的空间，但它本身不会受到伤害。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">施法Spellcasting。怯蕴阿灵可以施展下列的一道法术，而不需要任何材料或言语成分，其施法属性为魅力：</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+施法Spellcasting。怯蕴阿灵可以施展下列的一道法术，而不需要任何材料或言语成分，其施法属性为魅力：
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">随意：德鲁伊伎俩Druidcraft，神导术Guidance，行动无踪Pass Without Trace，抵抗术Resistance</span>
+随意：德鲁伊伎俩Druidcraft，神导术Guidance，行动无踪Pass Without Trace，抵抗术Resistance

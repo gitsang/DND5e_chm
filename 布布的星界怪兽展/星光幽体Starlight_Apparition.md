@@ -1,47 +1,47 @@
-## **<span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体">星光幽体Starlight Apparition</span><span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体"></span>**
+## **星光幽体Starlight Apparition**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　那些在荒宇和星界海中殒命的不幸灵魂所产生的透明投影被称为星光幽体。每个星光幽体都有一个发光的、无实体的外观，与以前的自己很相似，但眼睛会发光。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　那些在荒宇和星界海中殒命的不幸灵魂所产生的透明投影被称为星光幽体。每个星光幽体都有一个发光的、无实体的外观，与以前的自己很相似，但眼睛会发光。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　星光幽体与幽魂不同。幽魂注定在其葬身之地不断萦绕，追逐它尚在人世时无法实现的承诺与目标。但是星光幽体的目的却是为了帮助它人避开或克服危险的障碍，又或完成一项艰难壮举。当一个死者的灵魂从来世的安息之地，在神灵或其他强大的天界实体的帮助下，将自己的一个幽灵副本投射到遥远的地方时，星光幽体就诞生了。幽体的存在只是为了完成其想要完成的任务；当使命完结，就将消散，永不复还。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　星光幽体与幽魂不同。幽魂注定在其葬身之地不断萦绕，追逐它尚在人世时无法实现的承诺与目标。但是星光幽体的目的却是为了帮助它人避开或克服危险的障碍，又或完成一项艰难壮举。当一个死者的灵魂从来世的安息之地，在神灵或其他强大的天界实体的帮助下，将自己的一个幽灵副本投射到遥远的地方时，星光幽体就诞生了。幽体的存在只是为了完成其想要完成的任务；当使命完结，就将消散，永不复还。
 
-**<span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体">星光幽体Starlight Apparition</span>**
+**星光幽体Starlight Apparition**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">中型天族，普遍中立善良</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+中型天族，普遍中立善良
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">AC：10</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+AC：10
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">HP：72（16d8）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+HP：72（16d8）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">速度：0尺，飞行30尺（悬浮）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+速度：0尺，飞行30尺（悬浮）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">力量1（-5） 敏捷11（+0） 体质10（+0）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+力量1（-5） 敏捷11（+0） 体质10（+0）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">智力18（+4） 感知16（+3） 魅力16（+3）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+智力18（+4） 感知16（+3） 魅力16（+3）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">伤害抗性：强酸，寒冷，火焰；非魔法攻击的钝击、穿刺、挥砍</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+伤害抗性：强酸，寒冷，火焰；非魔法攻击的钝击、穿刺、挥砍
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">伤害免疫：毒素，光耀</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+伤害免疫：毒素，光耀
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">状态免疫：目盲，魅惑，力竭，恐慌，受擒，麻痹，石化，中毒，倒地，束缚</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+状态免疫：目盲，魅惑，力竭，恐慌，受擒，麻痹，石化，中毒，倒地，束缚
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">感官：黑暗视觉120尺，被动察觉13</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+感官：黑暗视觉120尺，被动察觉13
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">语言：自己生前懂得的语言</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+语言：自己生前懂得的语言
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">挑战等级：5（1，800 XP）熟练加值：+3</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+挑战等级：5（1，800 XP）熟练加值：+3
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">星界体Astral Existence。幽体只能存在于星光位面。如果前往了一处不在星光位面的地点，幽体就会被摧毁。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+星界体Astral Existence。幽体只能存在于星光位面。如果前往了一处不在星光位面的地点，幽体就会被摧毁。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">照明Illumination。只要其至少拥有1点生命值，幽体就会向周边20尺内发出明亮光照，以及再向外延伸20尺的微光光照。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+照明Illumination。只要其至少拥有1点生命值，幽体就会向周边20尺内发出明亮光照，以及再向外延伸20尺的微光光照。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">虚体移动Incorporeal Movement。幽体能像穿过困难地形那样穿过其他生物或物件。它在回合结束时若处于物件内部则受到5（1d10）点力场伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+虚体移动Incorporeal Movement。幽体能像穿过困难地形那样穿过其他生物或物件。它在回合结束时若处于物件内部则受到5（1d10）点力场伤害。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">非凡本质Unusual Nature。幽体不需要空气、食物，水和睡眠。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+非凡本质Unusual Nature。幽体不需要空气、食物，水和睡眠。
 
-**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+**动作**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">耀光爆Radiant Eruption。近战或远程法术攻击：命中+6，触及5尺或射程120尺，单一目标。命中：20（5d6+3）点光耀伤害，如果目标是生物，则其必须通过一次DC14的感知豁免，否则陷入目盲1分钟。目标可以在其每个回合结束时再次豁免，成功则结束该效应。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+耀光爆Radiant Eruption。近战或远程法术攻击：命中+6，触及5尺或射程120尺，单一目标。命中：20（5d6+3）点光耀伤害，如果目标是生物，则其必须通过一次DC14的感知豁免，否则陷入目盲1分钟。目标可以在其每个回合结束时再次豁免，成功则结束该效应。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">附身Possession（充能6）。幽体身边5尺内它可以看见的一名类人生物必须进行一次DC 14的魅力豁免，豁免失败则被幽体附身。附身完成后幽体消失，目标陷入失能且身体失去控制。该幽体接管目标身体的控制权，但不剥夺目标的意识。该幽体此时不能被任何攻击、法术或别的效应指定为目标，同时保留自己的阵营以及智力、感知、魅力属性，并且免疫魅惑和恐慌，其他数据则与被附身生物相同，但不能获得该目标的知识、职业特性和熟练项。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+附身Possession（充能6）。幽体身边5尺内它可以看见的一名类人生物必须进行一次DC 14的魅力豁免，豁免失败则被幽体附身。附身完成后幽体消失，目标陷入失能且身体失去控制。该幽体接管目标身体的控制权，但不剥夺目标的意识。该幽体此时不能被任何攻击、法术或别的效应指定为目标，同时保留自己的阵营以及智力、感知、魅力属性，并且免疫魅惑和恐慌，其他数据则与被附身生物相同，但不能获得该目标的知识、职业特性和熟练项。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　当这个身体的生命值降至0、幽体自身主动以一个</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">附赠动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">终止附身返回星光位面，又或者被如驱逐善恶dispel evil and good这样的法术效应逼迫出来时，附身中止。附身终止时，幽体重新出现在该身体周边5尺内一处未占据空间位置。如果幽体再度出现时位于星光位面之外的地方，幽体就会被摧毁。目标在豁免成功或附身终止后的24小时里对该幽体的附身免疫。</span>
+　　当这个身体的生命值降至0、幽体自身主动以一个**附赠动作**终止附身返回星光位面，又或者被如驱逐善恶dispel evil and good这样的法术效应逼迫出来时，附身中止。附身终止时，幽体重新出现在该身体周边5尺内一处未占据空间位置。如果幽体再度出现时位于星光位面之外的地方，幽体就会被摧毁。目标在豁免成功或附身终止后的24小时里对该幽体的附身免疫。

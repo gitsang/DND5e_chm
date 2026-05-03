@@ -1,149 +1,149 @@
-**<span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体">独眼印鱼Scavver</span>**
+**独眼印鱼Scavver**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">自顶部顺时针排列：夜色、灰色、虚空、棕色</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+自顶部顺时针排列：夜色、灰色、虚空、棕色
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　独眼印鱼是一种形似鲨鱼的食腐动物，飞行在太空之中，以任何能够塞进自己嘴中的东西为食。独眼印鱼并非总是好斗的；它们通常跟随在更大的生物、船只或小行星的后面，以粪便和丢弃的垃圾为食。它们可以进入这些天体的气囊，这样当它们的“宿主”移动（通常是超高速移动）时，独眼印鱼自己也能跟得上脚步。较小的品种棕色与灰色比较不那么让人讨厌。较大的品种则更可怕，因为它们一般不会干坐着等食物上门。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　独眼印鱼是一种形似鲨鱼的食腐动物，飞行在太空之中，以任何能够塞进自己嘴中的东西为食。独眼印鱼并非总是好斗的；它们通常跟随在更大的生物、船只或小行星的后面，以粪便和丢弃的垃圾为食。它们可以进入这些天体的气囊，这样当它们的“宿主”移动（通常是超高速移动）时，独眼印鱼自己也能跟得上脚步。较小的品种棕色与灰色比较不那么让人讨厌。较大的品种则更可怕，因为它们一般不会干坐着等食物上门。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　独眼印鱼的头部前端有着一只大眼睛。当它清醒时，眼睛会发出光亮。它的大嘴满是尖牙利齿。当独眼印鱼入睡时，会懒洋洋地绕圈飞行，其他时候则会如同鲨鱼游过水域一样穿越太空。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　独眼印鱼的头部前端有着一只大眼睛。当它清醒时，眼睛会发出光亮。它的大嘴满是尖牙利齿。当独眼印鱼入睡时，会懒洋洋地绕圈飞行，其他时候则会如同鲨鱼游过水域一样穿越太空。
 
-### **<span style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体">棕色独眼印鱼Brown Scavver</span><span style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体"></span>**
+### **棕色独眼印鱼Brown Scavver**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　棕色独眼印鱼长达10尺，颜色从阳光下的棕金色到深褐色不等。它们消化一餐的食物需要好几天，在这段时间内，它们只会出于自卫而攻击。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　棕色独眼印鱼长达10尺，颜色从阳光下的棕金色到深褐色不等。它们消化一餐的食物需要好几天，在这段时间内，它们只会出于自卫而攻击。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　棕色独眼印鱼喜欢把猎物囫囵吞下。这种生物的胃里充满了有毒气体，能杀死所有被吞下后尚且存活的生物。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　棕色独眼印鱼喜欢把猎物囫囵吞下。这种生物的胃里充满了有毒气体，能杀死所有被吞下后尚且存活的生物。
 
-#### **<span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体">棕色独眼印鱼Brown Scavver</span><span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体"></span>**
+#### **棕色独眼印鱼Brown Scavver**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">大型怪兽，无阵营</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+大型怪兽，无阵营
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">AC：13（天生护甲）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+AC：13（天生护甲）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">HP：51（6d10+18）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+HP：51（6d10+18）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">速度：0尺，飞行40尺</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+速度：0尺，飞行40尺
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">力量18（+4） 敏捷15（+2） 体质17（+3）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+力量18（+4） 敏捷15（+2） 体质17（+3）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">智力 1（-5） 感知10（+0） 魅力 1（-5）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+智力 1（-5） 感知10（+0） 魅力 1（-5）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">感官：黑暗视觉120尺，被动察觉10</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+感官：黑暗视觉120尺，被动察觉10
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">语言：-</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+语言：-
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">挑战等级：4（1，100 XP）熟练加值：+2</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+挑战等级：4（1，100 XP）熟练加值：+2
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">非凡本质Unusual Nature。独眼印鱼不需要空气。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+非凡本质Unusual Nature。独眼印鱼不需要空气。
 
-**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+**动作**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">囫囵活吞Swallowing Bite。近战武器攻击：命中+6，触及5尺，单一目标。命中：11（2d6+4）点穿刺伤害。如果目标为中型或更小的生物，其必须成功通过一次DC13的敏捷豁免，否则被独眼印鱼吞咽。独眼印鱼一次只能吞咽一个生物。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+囫囵活吞Swallowing Bite。近战武器攻击：命中+6，触及5尺，单一目标。命中：11（2d6+4）点穿刺伤害。如果目标为中型或更小的生物，其必须成功通过一次DC13的敏捷豁免，否则被独眼印鱼吞咽。独眼印鱼一次只能吞咽一个生物。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　被吞咽的生物陷入目盲且被束缚，其对于独眼印鱼身体外的攻击或效应视为处于全身掩护，并在每次独眼印鱼的回合开始时因其食道中的毒气受到13（3d8）点毒素伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　被吞咽的生物陷入目盲且被束缚，其对于独眼印鱼身体外的攻击或效应视为处于全身掩护，并在每次独眼印鱼的回合开始时因其食道中的毒气受到13（3d8）点毒素伤害。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　若被吞下的生物在一回合内，对独眼印鱼造成至少15点伤害，则独眼印鱼在该回合结束时须成功通过一次DC20的体质豁免，否则吐出该生物，并使其于独眼印鱼身边10尺内的一处空间倒地。如果独眼印鱼死亡，被吞下的生物将不再受束缚，且可以消耗10尺移动力逃出，然后在尸体旁现身并陷入倒地状态。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　若被吞下的生物在一回合内，对独眼印鱼造成至少15点伤害，则独眼印鱼在该回合结束时须成功通过一次DC20的体质豁免，否则吐出该生物，并使其于独眼印鱼身边10尺内的一处空间倒地。如果独眼印鱼死亡，被吞下的生物将不再受束缚，且可以消耗10尺移动力逃出，然后在尸体旁现身并陷入倒地状态。
 
-### **<span style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体">灰色独眼印鱼Gray Scavver</span><span style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体"></span>**
+### **灰色独眼印鱼Gray Scavver**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　灰色独眼印鱼长达6尺，通常结群而行。血液的气味会让它们疯狂地掠食，但只要伤害到它就会削弱它的力量，让它放弃攻击。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　灰色独眼印鱼长达6尺，通常结群而行。血液的气味会让它们疯狂地掠食，但只要伤害到它就会削弱它的力量，让它放弃攻击。
 
-#### **<span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体">灰色独眼印鱼Gray Scavver</span><span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体"></span>**
+#### **灰色独眼印鱼Gray Scavver**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">中型怪兽，无阵营</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+中型怪兽，无阵营
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">AC：12（天生护甲）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+AC：12（天生护甲）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">HP：19（3d8+6）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+HP：19（3d8+6）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">速度：0尺，飞行40尺</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+速度：0尺，飞行40尺
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">力量16（+3） 敏捷13（+1） 体质15（+2）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+力量16（+3） 敏捷13（+1） 体质15（+2）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">智力 1（-5） 感知10（+0） 魅力 1（-5）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+智力 1（-5） 感知10（+0） 魅力 1（-5）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">感官：黑暗视觉120尺，被动察觉10</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+感官：黑暗视觉120尺，被动察觉10
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">语言：-</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+语言：-
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">挑战等级：1/4（50 XP）熟练加值：+2</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+挑战等级：1/4（50 XP）熟练加值：+2
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">非凡本质Unusual Nature。独眼印鱼不需要空气。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+非凡本质Unusual Nature。独眼印鱼不需要空气。
 
-**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+**动作**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">啃咬Bite。近战武器攻击：命中+5（如果目标生物失去了任意数量的生命值，则具有优势），触及5尺，单一目标。命中：7（1d8+3）点穿刺伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+啃咬Bite。近战武器攻击：命中+5（如果目标生物失去了任意数量的生命值，则具有优势），触及5尺，单一目标。命中：7（1d8+3）点穿刺伤害。
 
-### **<span style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体">夜色独眼印鱼Night Scavver</span><span style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体"></span>**
+### **夜色独眼印鱼Night Scavver**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　夜色独眼印鱼长达15尺。它们的颜色就如同荒宇本身：白色斑点（就像星星）洒落在黑暗的斑点和彩色的图案中。它们会毫不畏惧地闯进魔法船的气囊之中，并攻击甲板上的船员。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　夜色独眼印鱼长达15尺。它们的颜色就如同荒宇本身：白色斑点（就像星星）洒落在黑暗的斑点和彩色的图案中。它们会毫不畏惧地闯进魔法船的气囊之中，并攻击甲板上的船员。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　煮熟的夜色独眼印鱼肉在荒宇间的酒馆中非常流行。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　煮熟的夜色独眼印鱼肉在荒宇间的酒馆中非常流行。
 
-#### **<span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体">夜色独眼印鱼Night Scavver</span><span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体"></span>**
+#### **夜色独眼印鱼Night Scavver**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">巨型怪兽，无阵营</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+巨型怪兽，无阵营
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">AC：14（天生护甲）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+AC：14（天生护甲）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">HP：114（12d12+36）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+HP：114（12d12+36）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">速度：0尺，飞行40尺</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+速度：0尺，飞行40尺
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">力量20（+5） 敏捷15（+2） 体质17（+3）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+力量20（+5） 敏捷15（+2） 体质17（+3）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">智力 1（-5） 感知10（+0） 魅力 1（-5）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+智力 1（-5） 感知10（+0） 魅力 1（-5）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">技能：察觉+6，隐匿+8</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+技能：察觉+6，隐匿+8
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">感官：黑暗视觉120尺，被动察觉16</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+感官：黑暗视觉120尺，被动察觉16
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">语言：-</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+语言：-
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">挑战等级：5（1，800 XP）熟练加值：+3</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+挑战等级：5（1，800 XP）熟练加值：+3
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">非凡本质Unusual Nature。独眼印鱼不需要空气。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+非凡本质Unusual Nature。独眼印鱼不需要空气。
 
-**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+**动作**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">啃咬Bite。近战武器攻击：命中+8（如果目标生物失去了任意数量的生命值，则具有优势），触及10尺，单一目标。命中：27（4d10+5）点穿刺伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+啃咬Bite。近战武器攻击：命中+8（如果目标生物失去了任意数量的生命值，则具有优势），触及10尺，单一目标。命中：27（4d10+5）点穿刺伤害。
 
-### **<span style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体">虚空独眼印鱼Void Scavver</span><span style="FONT-SIZE: 16pt; FONT-FAMILY: 宋体"></span>**
+### **虚空独眼印鱼Void Scavver**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　虚空独眼印鱼长达20尺。它们的皮革黑到发亮，是逡巡于太空中的独狼。当大部分独眼印鱼还满足于残羹剩饭时，虚空独眼印鱼已经在追逐厨师本人。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　虚空独眼印鱼长达20尺。它们的皮革黑到发亮，是逡巡于太空中的独狼。当大部分独眼印鱼还满足于残羹剩饭时，虚空独眼印鱼已经在追逐厨师本人。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　虚空独眼印鱼可以从眼中放出一条隐形射线，令其目标陷入恐慌考虑到虚空独眼印鱼的体型和习性，这种恐惧往往只会更为强烈。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　虚空独眼印鱼可以从眼中放出一条隐形射线，令其目标陷入恐慌考虑到虚空独眼印鱼的体型和习性，这种恐惧往往只会更为强烈。
 
-#### **<span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体">虚空独眼印鱼Void Scavver</span><span style="FONT-SIZE: 14pt; FONT-FAMILY: 黑体"></span>**
+#### **虚空独眼印鱼Void Scavver**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">巨型怪兽，无阵营</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+巨型怪兽，无阵营
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">AC：15（天生护甲）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+AC：15（天生护甲）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">HP：157（15d12+60）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+HP：157（15d12+60）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">速度：0尺，飞行40尺</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+速度：0尺，飞行40尺
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">力量22（+6） 敏捷16（+3） 体质19（+4）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+力量22（+6） 敏捷16（+3） 体质19（+4）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">智力 4（-3） 感知13（+1） 魅力 5（-3）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+智力 4（-3） 感知13（+1） 魅力 5（-3）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">技能：察觉+5，隐匿+11</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+技能：察觉+5，隐匿+11
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">感官：黑暗视觉120尺，被动察觉15</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+感官：黑暗视觉120尺，被动察觉15
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">语言：-</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+语言：-
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">挑战等级：11（7，200 XP）熟练加值：+4</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+挑战等级：11（7，200 XP）熟练加值：+4
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">非凡本质Unusual Nature。独眼印鱼不需要空气。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+非凡本质Unusual Nature。独眼印鱼不需要空气。
 
-**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+**动作**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">囫囵活吞Swallowing Bite。近战武器攻击：命中+10，触及10尺，单一目标。命中：45（6d12+6）点穿刺伤害。如果目标为大型或更小的生物，其必须成功通过一次DC16的敏捷豁免，否则被独眼印鱼吞咽。独眼印鱼一次只能吞咽一个生物。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+囫囵活吞Swallowing Bite。近战武器攻击：命中+10，触及10尺，单一目标。命中：45（6d12+6）点穿刺伤害。如果目标为大型或更小的生物，其必须成功通过一次DC16的敏捷豁免，否则被独眼印鱼吞咽。独眼印鱼一次只能吞咽一个生物。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　被吞咽的生物陷入目盲且被束缚，其对于独眼印鱼身体外的攻击或效应视为处于全身掩护，并在每次独眼印鱼的回合开始时因其食道中的消化液受到11（2d10）点强酸伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　被吞咽的生物陷入目盲且被束缚，其对于独眼印鱼身体外的攻击或效应视为处于全身掩护，并在每次独眼印鱼的回合开始时因其食道中的消化液受到11（2d10）点强酸伤害。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">　　若被吞下的生物在一回合内，对独眼印鱼造成至少25点伤害，则独眼印鱼在该回合结束时须成功通过一次DC20的体质豁免，否则吐出该生物，并使其于独眼印鱼身边10尺内的一处空间倒地。如果独眼印鱼死亡，被吞下的生物将不再受束缚，且可以消耗10尺移动力逃出，然后在尸体旁现身并陷入倒地状态。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+　　若被吞下的生物在一回合内，对独眼印鱼造成至少25点伤害，则独眼印鱼在该回合结束时须成功通过一次DC20的体质豁免，否则吐出该生物，并使其于独眼印鱼身边10尺内的一处空间倒地。如果独眼印鱼死亡，被吞下的生物将不再受束缚，且可以消耗10尺移动力逃出，然后在尸体旁现身并陷入倒地状态。
 
-**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">附赠动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+**附赠动作**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">恐惧射线Ray of Fear（充能4~6）。独眼印鱼瞄准自身60尺以内的一个它能看见的生物，发出一条隐形魔法射线。目标必须成功通过一次DC16的感知豁免，否则直到独眼印鱼的下一个回合开始前陷入对独眼印鱼的恐慌。</span>
+恐惧射线Ray of Fear（充能4~6）。独眼印鱼瞄准自身60尺以内的一个它能看见的生物，发出一条隐形魔法射线。目标必须成功通过一次DC16的感知豁免，否则直到独眼印鱼的下一个回合开始前陷入对独眼印鱼的恐慌。

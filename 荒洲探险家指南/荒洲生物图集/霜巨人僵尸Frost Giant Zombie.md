@@ -1,136 +1,39 @@
-<div class="WordSection1" style="layout-grid:16.0pt">
+一个拥有巨大力量和奥秘的未知的物体Aeorian被发现并带到Eiselcross的要塞Fortress of the Dead Jarl，以取悦执政的霜巨人康妮莎·伯格Conessa Berg。该物体的不稳定性质释放出一股腐蚀的奥术能量，用扭曲的亡灵能量蹂躏要塞的居民，把他们转化成了巨大的、注入了雾气的亡灵。这些庞大的生物现在在他们被诅咒的家园周围的废墟之中游荡，以可怕的凶悍猎杀并毁灭所有的生物。
 
-<span style="font-size:10.0pt;font-family:宋体;color:black">一个拥有巨大力量和奥秘的未知的物体</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Aeorian</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">被发现并带到</span><span lang="EN-US" style="font-size:10.0pt;font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">Eiselcross</span><span style="font-size:
-10.0pt;font-family:宋体;color:black">的要塞</span><span lang="EN-US" style="font-size:
-10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">Fortress of the Dead Jarl</span><span style="font-size:10.0pt;font-family:宋体;color:black">，以取悦执政的霜巨人康妮莎</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">·</span><span style="font-size:10.0pt;font-family:宋体;color:black">伯格</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Conessa Berg</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">。该物体的不稳定性质释放出一股腐蚀的奥术能量，用扭曲的亡灵能量蹂躏要塞的居民，把他们转化成了巨大的、注入了雾气的亡灵。这些庞大的生物现在在他们被诅咒的家园周围的废墟之中游荡，以可怕的凶悍猎杀并毁灭所有的生物。</span>
 
-<span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">那些被摧毁，被屠杀，被冰冻的准英雄们的遗体被遗弃在那些曾经遭遇过这些不死巨人的战场上。低估这些巨大的恐怖，是许多探险队到</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Eiselcross</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">的北部地区探险的愚蠢之举，只有谣言时常传回，以证明这些严寒的怪物存在。</span>
+那些被摧毁，被屠杀，被冰冻的准英雄们的遗体被遗弃在那些曾经遭遇过这些不死巨人的战场上。低估这些巨大的恐怖，是许多探险队到Eiselcross的北部地区探险的愚蠢之举，只有谣言时常传回，以证明这些严寒的怪物存在。
 
-<span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">心若寒冰</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Hearts of Ice</span><span style="font-size:10.0pt;font-family:
-宋体;color:black">。在巨人们冰霜般的心脏里，炽热而不活跃的元素能量激发了一种无与伦比的狂怒，它让霜巨人僵尸的速度远超普通的僵尸，使得这些巨物的速度远远超过了研究者们的头脑所认为的腐朽巨人该有的速度。</span>
 
-<span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">麻木气息</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Numbing Aura</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">。除了将毫无防备的霜巨人塑造成永无止境的恐怖之外，</span><span lang="EN-US" style="font-size:
-10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">Aeorian</span><span style="font-size:10.0pt;font-family:宋体;color:black">神器也注入并放大了游牧部落的自然本性，使不死的巨人散发出一种致命的寒冷气息，将它们的猎物陷于冰冷的迷雾之中，从而减少猎物逃脱的机会。</span>
+心若寒冰Hearts of Ice。在巨人们冰霜般的心脏里，炽热而不活跃的元素能量激发了一种无与伦比的狂怒，它让霜巨人僵尸的速度远超普通的僵尸，使得这些巨物的速度远远超过了研究者们的头脑所认为的腐朽巨人该有的速度。
 
-<span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">不死</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Undead</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">。一名霜巨人僵尸不需要呼吸，饮食和睡眠。</span>
 
-<span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">霜巨人僵尸</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Frost Giant Zombie  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">巨型亡灵，中立邪恶</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-AC 15</span><span style="font-size:10.0pt;font-family:宋体;color:black">（拼凑护甲）</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">生命值</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black"> 138</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">12d12+60</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">）</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">速度</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black"> 40</span><span style="font-size:10.0pt;font-family:宋体;color:black">尺</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">力量</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">23</span><span style="font-size:10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">+6</span><span style="font-size:10.0pt;font-family:宋体;color:black">）</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black"> </span><span style="font-size:10.0pt;font-family:宋体;
-color:black">敏捷</span><span lang="EN-US" style="font-size:10.0pt;font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">6</span><span style="font-size:10.0pt;
-font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">-2</span><span style="font-size:
-10.0pt;font-family:宋体;color:black">）</span><span lang="EN-US" style="font-size:
-10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-size:10.0pt;font-family:宋体;color:black">体质</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">21</span><span style="font-size:10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">5</span><span style="font-size:10.0pt;font-family:宋体;color:black">）</span><span style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-size:10.0pt;font-family:宋体;color:black">智力</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">3</span><span style="font-size:10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">-4</span><span style="font-size:10.0pt;font-family:宋体;color:black">）</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-size:10.0pt;font-family:宋体;color:black">感知</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">6</span><span style="font-size:10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">-2</span><span style="font-size:10.0pt;font-family:宋体;color:black">）</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-size:10.0pt;font-family:宋体;color:black">魅力</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">5</span><span style="font-size:10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">-3</span><span style="font-size:10.0pt;font-family:宋体;color:black">）</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">豁免：感知</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">+2  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">伤害免疫：冷冻，毒素</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">状态免疫：中毒</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">感官：黑暗视觉</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">60</span><span style="font-size:10.0pt;font-family:宋体;color:black">尺</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">, </span><span style="font-size:10.0pt;font-family:宋体;color:black">被动感知</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">8  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">语言：理解巨人语但不会说</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">挑战等级：</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">9(5</span><span style="font-size:10.0pt;font-family:宋体;color:black">，</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">000 XP)  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">麻木气息</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Numbing Aura</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">。任何在该僵尸</span><span lang="EN-US" style="font-size:10.0pt;font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">10</span><span style="font-size:10.0pt;
-font-family:宋体;color:black">尺范围内开始其回合的生物必须进行一次</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">DC 17</span><span style="font-size:10.0pt;font-family:宋体;color:black">体质豁免。除非豁免成功，否则该生物在该回合不能进行一次以上的攻击，也不能使用附赠动作。</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">不死坚韧</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Undead Fortitude</span><span style="font-size:10.0pt;font-family:
-宋体;color:black">。当该僵尸因受非火焰、非光耀、或非重击伤害而使其生命值减至</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">0 </span><span style="font-size:10.0pt;font-family:宋体;color:black">时，它必须进行一次</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">DC </span><span style="font-size:10.0pt;font-family:宋体;color:black">为</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">5</span><span style="font-size:10.0pt;font-family:宋体;color:black">＋所受伤害值的</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">体质豁免，豁免成功则生命值降至</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">1</span><span style="font-size:10.0pt;font-family:宋体;color:black">。</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">动作</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Actions  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">多重攻击</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Multiattack  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">该僵尸进行两次武器攻击。</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">巨斧</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Greataxe</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">。近战武器攻击：命中</span><span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">+10</span><span style="font-size:10.0pt;font-family:宋体;color:black">，触及</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">10</span><span style="font-size:10.0pt;font-family:宋体;color:black">尺，单一目标</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">.  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">伤害：</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">25</span><span style="font-size:10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">3d12+6</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">）挥砍伤害。</span><span lang="EN-US" style="font-size:10.0pt;font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">  
-  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">投掷石块</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Hurl Rock</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">。远程武器攻击：命中</span><span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">+10</span><span style="font-size:10.0pt;font-family:宋体;color:black">，射程</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">60/240</span><span style="font-size:10.0pt;font-family:宋体;color:black">，单一目标</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">.  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">伤害：</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">28</span><span style="font-size:10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">4d10+6</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">）钝击伤害。</span><span lang="EN-US" style="font-size:10.0pt;font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">  
-  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">冰冷凝视</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Freezing Stare  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">僵尸瞄准一个它在</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">60</span><span style="font-size:10.0pt;font-family:宋体;color:black">尺内可以看到的生物。目标必须成功于</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">DC 17</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">的体质豁免，否则将受到</span><span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">35</span><span style="font-size:
-10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:
-10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">10d6</span><span style="font-size:10.0pt;font-family:宋体;color:black">）冷冻伤害，并麻痹直到该生物的下回合结束。</span><span lang="EN-US"> </span>
+麻木气息Numbing Aura。除了将毫无防备的霜巨人塑造成永无止境的恐怖之外，Aeorian神器也注入并放大了游牧部落的自然本性，使不死的巨人散发出一种致命的寒冷气息，将它们的猎物陷于冰冷的迷雾之中，从而减少猎物逃脱的机会。
 
-</div>
+
+不死Undead。一名霜巨人僵尸不需要呼吸，饮食和睡眠。
+
+
+霜巨人僵尸Frost Giant Zombie
+巨型亡灵，中立邪恶
+AC 15（拼凑护甲）
+生命值 138（12d12+60）
+速度 40尺
+力量23（+6） 敏捷6（-2） 体质21（5） 智力3（-4） 感知6（-2） 魅力5（-3）
+豁免：感知+2
+伤害免疫：冷冻，毒素
+状态免疫：中毒
+感官：黑暗视觉60尺, 被动感知8
+语言：理解巨人语但不会说
+挑战等级：9(5，000 XP)
+麻木气息Numbing Aura。任何在该僵尸10尺范围内开始其回合的生物必须进行一次DC 17体质豁免。除非豁免成功，否则该生物在该回合不能进行一次以上的攻击，也不能使用附赠动作。
+不死坚韧Undead Fortitude。当该僵尸因受非火焰、非光耀、或非重击伤害而使其生命值减至0 时，它必须进行一次DC 为5＋所受伤害值的
+体质豁免，豁免成功则生命值降至1。
+动作Actions
+多重攻击Multiattack
+该僵尸进行两次武器攻击。
+巨斧Greataxe。近战武器攻击：命中+10，触及10尺，单一目标.
+伤害：25（3d12+6）挥砍伤害。
+投掷石块Hurl Rock。远程武器攻击：命中+10，射程60/240，单一目标.
+伤害：28（4d10+6）钝击伤害。
+冰冷凝视Freezing Stare
+僵尸瞄准一个它在60尺内可以看到的生物。目标必须成功于DC 17的体质豁免，否则将受到35（10d6）冷冻伤害，并麻痹直到该生物的下回合结束。

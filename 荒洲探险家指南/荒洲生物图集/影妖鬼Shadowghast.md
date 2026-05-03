@@ -1,92 +1,23 @@
-<span style="font-size:10.0pt;font-family:宋体;color:black">一只影妖鬼是一名不死的刺客。它从阴影中跳出，拖着卷须般的黑暗，无声无息地逼近猎物，用它麻痹的爪子和狂暴的撕咬袭击受害者。</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">影妖鬼</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Shadowghast  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">中型亡灵，混乱邪恶</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-AC 15  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">生命值</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black"> 49 (9d8+9)  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">速度</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black"> 35</span><span style="font-size:10.0pt;font-family:宋体;color:black">尺</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">力量</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">14</span><span style="font-size:10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">+2</span><span style="font-size:10.0pt;font-family:宋体;color:black">）</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black"> </span><span style="font-size:10.0pt;font-family:宋体;
-color:black">敏捷</span><span lang="EN-US" style="font-size:10.0pt;font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">20</span><span style="font-size:10.0pt;
-font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">+5</span><span style="font-size:
-10.0pt;font-family:宋体;color:black">）</span><span lang="EN-US" style="font-size:
-10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-size:10.0pt;font-family:宋体;color:black">体质</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">12</span><span style="font-size:10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">+1</span><span style="font-size:10.0pt;font-family:宋体;color:black">）</span><span style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-size:10.0pt;font-family:宋体;color:black">智力</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">12</span><span style="font-size:10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">+1</span><span style="font-size:10.0pt;font-family:宋体;color:black">）</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-size:10.0pt;font-family:宋体;color:black">感知</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">11</span><span style="font-size:10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">+0</span><span style="font-size:10.0pt;font-family:宋体;color:black">）</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-size:10.0pt;font-family:宋体;color:black">魅力</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">8</span><span style="font-size:10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">-1</span><span style="font-size:10.0pt;font-family:宋体;color:black">）</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">技能：察觉</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">+3</span><span style="font-size:10.0pt;font-family:宋体;color:black">，隐匿</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">+8  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">伤害抗性：暗蚀</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">伤害免疫：毒素</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">状态免疫：魅惑，力竭，中毒</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">感官：黑暗视觉</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">60</span><span style="font-size:10.0pt;font-family:宋体;color:black">尺</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">, </span><span style="font-size:10.0pt;font-family:宋体;color:black">被动感知</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">13  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">语言：</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">-  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">挑战等级：</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">5(1</span><span style="font-size:10.0pt;font-family:宋体;color:black">，</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">800 XP)  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">恶臭</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Stench</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">。在影妖鬼身边</span><span lang="EN-US" style="font-size:10.0pt;font-family:
-&quot;Segoe UI&quot;,sans-serif;color:black">5 </span><span style="font-size:10.0pt;
-font-family:宋体;color:black">尺范围内开始其回合的生物，必需进行一次</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">DC 12 </span><span style="font-size:10.0pt;font-family:宋体;color:black">的体质豁免，豁免失败者将陷入中毒，中毒状态持续至该生物下回合开始。若豁免成功，则该生物将在</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">24 </span><span style="font-size:10.0pt;font-family:宋体;color:black">小时内免疫该影妖鬼的恶臭。</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">幽影隐匿</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Shadow Stealth</span><span style="font-size:10.0pt;font-family:
-宋体;color:black">。在微光光照或黑暗环境下，影妖鬼能够以附赠动作来执行</span><span style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black"> </span><span style="font-size:
-10.0pt;font-family:宋体;color:black">躲藏</span><span lang="EN-US" style="font-size:
-10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">Hide </span><span style="font-size:10.0pt;font-family:宋体;color:black">动作。</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">  
-  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">动作</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Actions  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">多重攻击</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Multiattack  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">影妖鬼进行两次攻击：一次使用其啃咬，一次使用其爪击。</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">啃咬</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Bite.</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">近战武器攻击：命中</span><span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">+8</span><span style="font-size:
-10.0pt;font-family:宋体;color:black">，触及</span><span lang="EN-US" style="font-size:
-10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">5</span><span style="font-size:10.0pt;font-family:宋体;color:black">尺，单一目标</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">.  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">伤害：</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">11</span><span style="font-size:10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">2d8+2</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">）挥砍伤害，外加</span><span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">5</span><span style="font-size:
-10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:
-10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">1d10</span><span style="font-size:10.0pt;font-family:宋体;color:black">）暗蚀伤害。</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">  
-  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">爪击</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">Claws.</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">近战武器攻击：命中</span><span lang="EN-US" style="font-size:10.0pt;
-font-family:&quot;Segoe UI&quot;,sans-serif;color:black">+8</span><span style="font-size:
-10.0pt;font-family:宋体;color:black">，触及</span><span lang="EN-US" style="font-size:
-10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">5</span><span style="font-size:10.0pt;font-family:宋体;color:black">尺，单一目标</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">.  
-</span><span style="font-size:10.0pt;font-family:宋体;color:black">伤害：</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">12</span><span style="font-size:10.0pt;font-family:宋体;color:black">（</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">2d6+5</span><span style="font-size:10.0pt;font-family:宋体;
-color:black">）挥砍伤害，如果目标并非亡灵，则它必须成功于</span><span lang="EN-US" style="font-size:
-10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;color:black">DC 12</span><span style="font-size:10.0pt;font-family:宋体;color:black">的体质豁免，否则陷入麻痹</span><span lang="EN-US" style="font-size:10.0pt;font-family:&quot;Segoe UI&quot;,sans-serif;
-color:black">1</span><span style="font-size:10.0pt;font-family:宋体;color:black">分钟。目标可以在自己每次回合结束时重复豁免，成功则结束该效应对自身的影响。</span><span lang="EN-US"> </span>
+一只影妖鬼是一名不死的刺客。它从阴影中跳出，拖着卷须般的黑暗，无声无息地逼近猎物，用它麻痹的爪子和狂暴的撕咬袭击受害者。
+影妖鬼Shadowghast
+中型亡灵，混乱邪恶
+AC 15
+生命值 49 (9d8+9)
+速度 35尺
+力量14（+2） 敏捷20（+5） 体质12（+1） 智力12（+1） 感知11（+0） 魅力8（-1）
+技能：察觉+3，隐匿+8
+伤害抗性：暗蚀
+伤害免疫：毒素
+状态免疫：魅惑，力竭，中毒
+感官：黑暗视觉60尺, 被动感知13
+语言：-
+挑战等级：5(1，800 XP)
+恶臭Stench。在影妖鬼身边5 尺范围内开始其回合的生物，必需进行一次DC 12 的体质豁免，豁免失败者将陷入中毒，中毒状态持续至该生物下回合开始。若豁免成功，则该生物将在24 小时内免疫该影妖鬼的恶臭。
+幽影隐匿Shadow Stealth。在微光光照或黑暗环境下，影妖鬼能够以附赠动作来执行 躲藏Hide 动作。
+动作Actions
+多重攻击Multiattack
+影妖鬼进行两次攻击：一次使用其啃咬，一次使用其爪击。
+啃咬Bite.近战武器攻击：命中+8，触及5尺，单一目标.
+伤害：11（2d8+2）挥砍伤害，外加5（1d10）暗蚀伤害。
+爪击Claws.近战武器攻击：命中+8，触及5尺，单一目标.
+伤害：12（2d6+5）挥砍伤害，如果目标并非亡灵，则它必须成功于DC 12的体质豁免，否则陷入麻痹1分钟。目标可以在自己每次回合结束时重复豁免，成功则结束该效应对自身的影响。

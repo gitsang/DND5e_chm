@@ -1,75 +1,70 @@
-**<span style="FONT-SIZE: 16pt; FONT-FAMILY: 黑体">雷加尔人Reigar</span>**
+**雷加尔人Reigar**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">雷加尔人曾是类似于章鱼的头足纲动物。在这个位面的诸神改造他们之前，一直居住在伊斯加德波涛汹涌的大海之中。雷加尔人具有能发出生物光的雀斑和改变肤色的能力。荣光（或称光晕）围绕在他们每个个体的身边。这表现为一团明灭不定的魔法性尘云，会随机改变颜色以及反制攻击。  
-　　</span>
+雷加尔人曾是类似于章鱼的头足纲动物。在这个位面的诸神改造他们之前，一直居住在伊斯加德波涛汹涌的大海之中。雷加尔人具有能发出生物光的雀斑和改变肤色的能力。荣光（或称光晕）围绕在他们每个个体的身边。这表现为一团明灭不定的魔法性尘云，会随机改变颜色以及反制攻击。
+　　
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">带着天生的大胆，它们从伊斯加德的大海中走出，踏向陆地以检验自身的勇气。而当伊斯加德无休止的战斗开始令他们感到厌倦之后，一些雷加尔人就选择了前往星界海与荒宇之中寻求荣光。许多个体都受到了艺术追求的驱使，但每一个雷加尔人都有自己对艺术的定义。对于一些雷加尔人来说，战争即是艺术的最高形式。但也有其他的雷加尔人创造了一些更温和的艺术。  
-　　</span>
+带着天生的大胆，它们从伊斯加德的大海中走出，踏向陆地以检验自身的勇气。而当伊斯加德无休止的战斗开始令他们感到厌倦之后，一些雷加尔人就选择了前往星界海与荒宇之中寻求荣光。许多个体都受到了艺术追求的驱使，但每一个雷加尔人都有自己对艺术的定义。对于一些雷加尔人来说，战争即是艺术的最高形式。但也有其他的雷加尔人创造了一些更温和的艺术。
+　　
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">雷加尔人会在荒宇和众星之海间游荡以寻求艺术灵感，他们的交通工具是种有机共生体船舰（见前述“美学舰兽Esthetic”）。每位雷加尔人都拥有一件名为*华严Talarith*的魔法物品，他们是它的创造者，也是唯一可以与之同调的生物。如果该物品损坏或丢失，雷加尔人需要1d20+20天才能制作另一个相同的物件。</span>
+雷加尔人会在荒宇和众星之海间游荡以寻求艺术灵感，他们的交通工具是种有机共生体船舰（见前述“美学舰兽Esthetic”）。每位雷加尔人都拥有一件名为*华严Talarith*的魔法物品，他们是它的创造者，也是唯一可以与之同调的生物。如果该物品损坏或丢失，雷加尔人需要1d20+20天才能制作另一个相同的物件。
 
 ***华严******Talarith***
 
-*<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">奇物，传说（需要创造它的雷加尔人同调） </span> <span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"> </span>*
+*奇物，传说（需要创造它的雷加尔人同调）   *
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">这件珠宝首饰的样式由雷加尔人在制作时选择：手镯、胸针、头饰、或项链。在雷加尔人佩戴华严期间，它持用的任何武器都会在命中时额外造成1d6点力场伤害。</span> <span style="FONT-SIZE: 
-10.5pt; FONT-FAMILY: 宋体"></span>
+这件珠宝首饰的样式由雷加尔人在制作时选择：手镯、胸针、头饰、或项链。在雷加尔人佩戴华严期间，它持用的任何武器都会在命中时额外造成1d6点力场伤害。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">以一个动作，雷加尔人可以用它的*华严Talarith* 召唤出一个外表与雷加尔人相似的魔像。魔像使用雷加尔人的数据且服从雷加尔人的命令，但它的生物类型为构装生物，且不会具有属于它的华严。魔像将会在1小时后消失，如果魔像的生命值被降至0它也会提前消失。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+以一个动作，雷加尔人可以用它的*华严Talarith* 召唤出一个外表与雷加尔人相似的魔像。魔像使用雷加尔人的数据且服从雷加尔人的命令，但它的生物类型为构装生物，且不会具有属于它的华严。魔像将会在1小时后消失，如果魔像的生命值被降至0它也会提前消失。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"> 召唤魔像后，雷加尔人必须完成一次短休或长休，才能再次使用此效果。  
-</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+ 召唤魔像后，雷加尔人必须完成一次短休或长休，才能再次使用此效果。
 
-#### 雷加尔人Reigar 
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">中型天族，普遍混乱中立</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+#### 雷加尔人Reigar
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">AC：19（荣光）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+中型天族，普遍混乱中立
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">HP：82（15d8+15）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+AC：19（荣光）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">速度：30尺，游泳30尺</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+HP：82（15d8+15）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">力量18（+4）敏捷15（+2） 体质12（+1）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+速度：30尺，游泳30尺
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">智力19（+4）感知16（+3）魅力24（+7）</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+力量18（+4）敏捷15（+2） 体质12（+1）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">豁免：敏捷+5，体质+4，感知+6，魅力+10</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+智力19（+4）感知16（+3）魅力24（+7）
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">技能：奥秘+7，历史+7，表演+10，游说+10</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+豁免：敏捷+5，体质+4，感知+6，魅力+10
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">感官：被动察觉13</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+技能：奥秘+7，历史+7，表演+10，游说+10
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">语言：天界语，通用语，深潜语，龙语</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+感官：被动察觉13
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">挑战等级：8（3，900 XP）熟练加值：+3</span>
+语言：天界语，通用语，深潜语，龙语
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">荣光Glory。雷加尔人的护甲等级加上其魅力调整值。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+挑战等级：8（3，900 XP）熟练加值：+3
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">屏息Hold Breath。雷加尔人可以屏息最多1小时。</span>
+荣光Glory。雷加尔人的护甲等级加上其魅力调整值。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">特殊装备Special Equipment。雷加尔人佩戴着一个华严Talarith。</span></span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+屏息Hold Breath。雷加尔人可以屏息最多1小时。
 
-**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">动作</span>**<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+特殊装备Special Equipment。雷加尔人佩戴着一个华严Talarith。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">多重攻击Multiattack。雷加尔人进行两次三叉戟攻击。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+**动作**
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">三叉戟Trident。近战或远程武器攻击：命中+7，触及5尺或射程20/60尺，单一目标。命中：7（1d6+4）点穿刺伤害，或使用双手发动近战攻击时8（1d8+4）点穿刺伤害，如果雷加尔人佩带着它的华严则外加3（1d6）点力场伤害。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+多重攻击Multiattack。雷加尔人进行两次三叉戟攻击。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">繁彩箭Chromatic Bolt。远程法术攻击：命中+10，射程90尺，单一目标。命中：22（5d8）点伤害，伤害类型由雷加尔人从下列中选择一个：寒冷、火焰、闪电或光耀。</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+三叉戟Trident。近战或远程武器攻击：命中+7，触及5尺或射程20/60尺，单一目标。命中：7（1d6+4）点穿刺伤害，或使用双手发动近战攻击时8（1d8+4）点穿刺伤害，如果雷加尔人佩带着它的华严则外加3（1d6）点力场伤害。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">施法（灵能）Spellcasting(Psionics)。雷加尔人可以施展下列的一道法术，而不需要任何法术成分，其施法属性为魅力（法术豁免DC18）：</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+繁彩箭Chromatic Bolt。远程法术攻击：命中+10，射程90尺，单一目标。命中：22（5d8）点伤害，伤害类型由雷加尔人从下列中选择一个：寒冷、火焰、闪电或光耀。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">随意：光亮术，法师之手，魔法伎俩</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+施法（灵能）Spellcasting(Psionics)。雷加尔人可以施展下列的一道法术，而不需要任何法术成分，其施法属性为魅力（法术豁免DC18）：
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">每项2/日：任意门，魅影之力</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+随意：光亮术，法师之手，魔法伎俩
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">每项1/日：群体暗示术，短讯术</span><span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"></span>
+每项2/日：任意门，魅影之力
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">召唤魔像召唤分身Summon Duplicate（短休或长休后充能）。利用华严，雷加尔人可以召唤一个类似分身的自我复制体。这个分身服从雷加尔人的命令，并且使用雷加尔人的数据，不过它的阵营为无阵营、生物类型为构装生物、也没有属于自己的华严。分身会在雷加尔人的回合结束后立刻进行自己的回合。分身会在1小时后或者它的生命值被降至0时消失。</span>
+每项1/日：群体暗示术，短讯术
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体">【\*校注：Errata说“把所有golem替换为duplicate”，所以我们就有了“duplicate-like duplicate”了，堪比大地骑士盖亚】</span>
+召唤魔像召唤分身Summon Duplicate（短休或长休后充能）。利用华严，雷加尔人可以召唤一个类似分身的自我复制体。这个分身服从雷加尔人的命令，并且使用雷加尔人的数据，不过它的阵营为无阵营、生物类型为构装生物、也没有属于自己的华严。分身会在雷加尔人的回合结束后立刻进行自己的回合。分身会在1小时后或者它的生命值被降至0时消失。
 
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"> </span>
-
-<span style="FONT-SIZE: 10.5pt; FONT-FAMILY: 宋体"> </span>
+【\*校注：Errata说“把所有golem替换为duplicate”，所以我们就有了“duplicate-like duplicate”了，堪比大地骑士盖亚】
