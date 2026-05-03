@@ -33,3 +33,9 @@
 **文件夹`...\DND5e_chm\Generator`中的所有python文件都需要使用同文件夹下的`run.bat`进行运行，否则极大概率出现问题，这些python文件都是起到便捷辅助作用的。**
 
 如果您有更新目录的需求，您可以创建一个新的wcp文件，如根目录下的其他wcp文件一样，与修改或新增的html文件一同添加至pr流程进行合并，仓库协作者会手动将其合入主wcp文件中。
+
+## Markdown 分支说明
+
+`md` 分支由 `convert_to_markdown.py` 将原始 GBK/GB2312 HTML/HTM 页面批量转换为 UTF-8 Markdown。转换流程使用 Pandoc 输出 GitHub Flavored Markdown，并将本地 `.htm` / `.html` 链接改写为 `.md` 链接。
+
+已知限制：原 CHM 工程中的部分跨目录链接依赖 CHM 编译后的扁平命名空间，这些链接在源码目录中原本就不是普通相对路径；转换后仍可能需要后续脚本补充 `../` 等相对路径前缀，才能在 GitHub 页面浏览时完全跳转。
